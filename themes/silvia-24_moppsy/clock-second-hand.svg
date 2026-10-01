@@ -1,0 +1,43 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" sodipodi:docbase="/home/dt/.cairo-clock/themes/silvia-24" sodipodi:docname="clock-second-hand.svg" sodipodi:version="0.32" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient14534">
+   <stop id="stop14536" stop-color="#464646" offset="0"/>
+   <stop id="stop14542" stop-color="#464646" offset=".878"/>
+   <stop id="stop14538" stop-color="#787878" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5989">
+   <stop id="stop5991" stop-color="#fff" offset="0"/>
+   <stop id="stop2316" stop-color="#bcbcbc" offset=".565"/>
+   <stop id="stop2318" stop-color="#838383" offset=".837"/>
+   <stop id="stop5993" stop-color="#3a3a3a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3287">
+   <stop id="stop3289" stop-color="#fff" offset="0"/>
+   <stop id="stop3291" stop-color="#7f7f7f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2202">
+   <stop id="stop2204" stop-color="#a5adad" offset="0"/>
+   <stop id="stop2206" stop-color="#e8f4ed" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient14540" cx="50.4" cy="50" r="1.6" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient14534"/>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" pagecolor="#ffffff" showguides="true">
+  <sodipodi:guide id="guide1307" orientation="horizontal" position="50"/>
+  <sodipodi:guide id="guide1309" orientation="vertical" position="50"/>
+  <sodipodi:guide id="guide1311" orientation="horizontal" position="100"/>
+  <sodipodi:guide id="guide1313" orientation="vertical" position="0"/>
+  <sodipodi:guide id="guide1315" orientation="vertical" position="100"/>
+  <sodipodi:guide id="guide1317" orientation="horizontal" position="0"/>
+  <sodipodi:guide id="guide1319" orientation="horizontal" position="90.060241"/>
+  <sodipodi:guide id="guide1321" orientation="vertical" position="10.040161"/>
+  <sodipodi:guide id="guide1323" orientation="vertical" position="90.060241"/>
+  <sodipodi:guide id="guide1325" orientation="horizontal" position="10.040161"/>
+ </sodipodi:namedview>
+ <g id="layer2">
+  <g id="g3977" fill="#414141">
+   <path id="path11031" d="m-6.05-0.245v0.531l40-0.186 4.16e-4 -0.161-40-0.184z" fill-rule="evenodd" stroke-opacity="0" sodipodi:nodetypes="ccccc"/>
+   <path id="path1344" transform="matrix(.709 0 0 .709 -.00495 .0067)" d="m-0.017-1.73a1.75 1.75 0 1 1-5.39e-7 0" stroke="#414141" stroke-opacity=".995" stroke-width=".1" sodipodi:cx="-0.017017351" sodipodi:cy="0.023055004" sodipodi:end="10.995574" sodipodi:open="true" sodipodi:rx="1.7527872" sodipodi:ry="1.7527872" sodipodi:start="4.712389" sodipodi:type="arc"/>
+  </g>
+ </g>
+</svg>

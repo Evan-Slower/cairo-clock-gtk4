@@ -1,0 +1,28 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient14534">
+   <stop id="stop14536" stop-color="#464646" offset="0"/>
+   <stop id="stop14542" stop-color="#464646" offset=".878"/>
+   <stop id="stop14538" stop-color="#787878" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5989">
+   <stop id="stop5991" stop-color="#fff" offset="0"/>
+   <stop id="stop2316" stop-color="#bcbcbc" offset=".565"/>
+   <stop id="stop2318" stop-color="#838383" offset=".837"/>
+   <stop id="stop5993" stop-color="#3a3a3a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3287">
+   <stop id="stop3289" stop-color="#fff" offset="0"/>
+   <stop id="stop3291" stop-color="#7f7f7f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2202">
+   <stop id="stop2204" stop-color="#a5adad" offset="0"/>
+   <stop id="stop2206" stop-color="#e8f4ed" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient14540" cx="50.4" cy="50" r="1.6" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient14534"/>
+ </defs>
+ <g id="layer2">
+  <path id="path11031" d="m25.3-1.72c-0.561 0.0396-1.1 0.32-1.41 0.844-0.104 0.18-0.153 0.4-0.188 0.594l-32.5-0.312v1.25l32.5-0.312c0.0933 0.481 0.386 0.923 0.844 1.19 0.838 0.484 1.89 0.213 2.38-0.625 0.104-0.18 0.153-0.4 0.188-0.594l9.72-0.0938v-0.375l-9.69-0.0938c-0.0802-0.503-0.368-0.975-0.844-1.25-0.314-0.181-0.663-0.243-1-0.219z" fill-opacity=".56" fill-rule="evenodd"/>
+ </g>
+</svg>

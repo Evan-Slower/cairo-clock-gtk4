@@ -1,0 +1,21 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" version="1.0" viewBox="0 0 109 109" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient2202">
+   <stop id="stop2204" stop-color="#a5adad" offset="0"/>
+   <stop id="stop2206" stop-color="#e8f4ed" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient4002" cx="28.5" cy="23.6" r="19.2" gradientTransform="matrix(1 0 0 .681 0 7.31)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3998" stop-color="#666" offset="0"/>
+   <stop id="stop4877" stop-color="#acacac" offset=".956"/>
+   <stop id="stop4879" stop-color="#cfcfcf" offset=".978"/>
+   <stop id="stop4000" stop-color="#f2f2f2" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient5760" cx="30" cy="22.1" r="19" gradientTransform="matrix(1 0 0 .686 0 7.2)" gradientUnits="userSpaceOnUse">
+   <stop id="stop5756" stop-color="#858585" offset="0"/>
+   <stop id="stop5762" stop-color="#979797" offset=".718"/>
+   <stop id="stop5764" stop-color="#b3b3b3" offset=".948"/>
+   <stop id="stop5758" stop-color="#f3f3f3" offset="1"/>
+  </radialGradient>
+ </defs>
+</svg>

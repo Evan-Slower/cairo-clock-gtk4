@@ -1,0 +1,28 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" sodipodi:docbase="/home/mirco/src/cairo-demo/cairo-candy/themes/fdo" sodipodi:docname="clock-drop-shadow.svg" sodipodi:version="0.32" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <radialGradient id="radialGradient2208" cx="29.1" cy="22.9" r="19.2" gradientTransform="matrix(.945 3.01e-16 -4.48e-16 .651 1.6 8.02)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2204" stop-opacity=".784" offset="0"/>
+   <stop id="stop2206" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient2412">
+   <stop id="stop2414" stop-color="#a5adad" offset="0"/>
+   <stop id="stop2416" stop-color="#e8f4ed" offset="1"/>
+  </linearGradient>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" pagecolor="#ffffff" showguides="true">
+  <sodipodi:guide id="guide1307" orientation="horizontal" position="50"/>
+  <sodipodi:guide id="guide1309" orientation="vertical" position="50"/>
+  <sodipodi:guide id="guide1311" orientation="horizontal" position="100"/>
+  <sodipodi:guide id="guide1313" orientation="vertical" position="0"/>
+  <sodipodi:guide id="guide1315" orientation="vertical" position="100"/>
+  <sodipodi:guide id="guide1317" orientation="horizontal" position="0"/>
+  <sodipodi:guide id="guide1319" orientation="horizontal" position="90.060241"/>
+  <sodipodi:guide id="guide1321" orientation="vertical" position="10.040161"/>
+  <sodipodi:guide id="guide1323" orientation="vertical" position="90.060241"/>
+  <sodipodi:guide id="guide1325" orientation="horizontal" position="10.040161"/>
+ </sodipodi:namedview>
+ <g id="layer1">
+  <path id="path1327" transform="matrix(2.4 0 0 3.52 -17.4 -28.7)" d="m47.8 22.9a18.7 12.7 0 1 1-37.3 0 18.7 12.7 0 1 1 37.3 0z" fill="url(#radialGradient2208)" opacity=".75" sodipodi:cx="29.116467" sodipodi:cy="22.941767" sodipodi:rx="18.674698" sodipodi:ry="12.700803" sodipodi:type="arc"/>
+ </g>
+</svg>

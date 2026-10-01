@@ -1,0 +1,52 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg11300" sodipodi:docbase="/home/shr/.cairo-clock/themes/tango" sodipodi:docname="clock-face.svg" sodipodi:version="0.32" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3">
+  <radialGradient id="radialGradient278" cx="55" cy="125" r="14.4" gradientUnits="userSpaceOnUse">
+   <stop id="stop12513" stop-color="#fff" offset="0"/>
+   <stop id="stop12517" stop-color="#fff520" stop-opacity=".891" offset=".5"/>
+   <stop id="stop12514" stop-color="#fff300" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient3822" cx="31.1" cy="19" r="8.66" gradientUnits="userSpaceOnUse">
+   <stop id="stop3818" offset="0"/>
+   <stop id="stop3820" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient4307" x1="8.92" x2="9.89" y1="37.2" y2="52.1" gradientTransform="matrix(5.72 0 0 1.77 -51.9 -26.9)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2154" stop-color="#9aa29a" offset="0"/>
+   <stop id="stop2156" stop-color="#b5beb5" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient4309" cx="11.3" cy="10.6" r="15.5" gradientUnits="userSpaceOnUse">
+   <stop id="stop10655" stop-color="#f3f4ff" offset="0"/>
+   <stop id="stop10657" stop-color="#9193af" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient4311" cx="11.9" cy="10" r="29.3" gradientUnits="userSpaceOnUse">
+   <stop id="stop2147" stop-color="#fffffd" offset="0"/>
+   <stop id="stop2149" stop-color="#cbcbc9" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient4313" x1="6.34" x2="22.2" y1="7.79" y2="25.9" gradientUnits="userSpaceOnUse">
+   <stop id="stop42176" stop-color="#a0a0a0" offset="0"/>
+   <stop id="stop42178" stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient5202" cx="23.4" cy="11" r="3.35" gradientTransform="matrix(3.63 1.65e-15 -1.61e-15 3.74 -61.5 -29.2)" gradientUnits="userSpaceOnUse">
+   <stop id="stop5198" stop-color="#c4a000" offset="0"/>
+   <stop id="stop5200" stop-color="#c4a000" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient5210" x1="19.7" x2="20.3" y1="4.26" y2="5.28" gradientUnits="userSpaceOnUse">
+   <stop id="stop5206" stop-color="#c4a000" offset="0"/>
+   <stop id="stop5208" stop-color="#c4a000" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient5212" cx="8.75" cy="6.83" r="29.9" gradientUnits="userSpaceOnUse">
+   <stop id="stop37937" stop-color="#9497b3" offset="0"/>
+   <stop id="stop37939" stop-color="#4c4059" offset="1"/>
+  </radialGradient>
+ </defs>
+ <sodipodi:namedview id="base" fill="#babdb6" stroke="#c4a000" bordercolor="#666666" borderopacity="0.25490196" pagecolor="#ffffff" showgrid="false" showguides="true">
+  <sodipodi:guide id="guide1356" orientation="vertical" position="10.188679"/>
+  <sodipodi:guide id="guide1358" orientation="horizontal" position="89.811321"/>
+  <sodipodi:guide id="guide1360" orientation="horizontal" position="9.8113208"/>
+  <sodipodi:guide id="guide1362" orientation="vertical" position="90.188679"/>
+ </sodipodi:namedview>
+ <g id="layer1" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+  <path id="path27786" transform="matrix(2.62 0 0 2.62 7.57 5.92)" d="m31.2 16.9a14.9 14.9 0 1 1-29.8 0 14.9 14.9 0 1 1 29.8 0z" fill="url(#radialGradient5212)" stroke="#605773" stroke-width=".699" sodipodi:cx="16.25" sodipodi:cy="16.910715" sodipodi:rx="14.910714" sodipodi:ry="14.910714" sodipodi:type="arc"/>
+  <path id="path35549" transform="matrix(2.13 0 0 2.13 15.4 14)" d="m31.2 16.9a14.9 14.9 0 1 1-29.8 0 14.9 14.9 0 1 1 29.8 0z" fill="url(#radialGradient4311)" stroke="url(#linearGradient4313)" stroke-width=".711" sodipodi:cx="16.25" sodipodi:cy="16.910715" sodipodi:rx="14.910714" sodipodi:ry="14.910714" sodipodi:type="arc"/>
+ </g>
+</svg>

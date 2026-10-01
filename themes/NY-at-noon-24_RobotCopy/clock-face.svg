@@ -1,0 +1,20 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient2276">
+   <stop id="stop2278" stop-color="#cadee7" stop-opacity=".845" offset="0"/>
+   <stop id="stop2284" stop-color="#f0f0f0" stop-opacity=".227" offset=".346"/>
+   <stop id="stop2280" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2202">
+   <stop id="stop2204" stop-opacity=".165" offset="0"/>
+   <stop id="stop2210" stop-opacity=".165" offset=".769"/>
+   <stop id="stop2206" stop-color="#f7fcf9" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3101" x1="10.4" x2="47.8" y1="22.9" y2="22.9" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2202"/>
+  <radialGradient id="radialGradient2208" cx="50.1" cy="49.9" r="40" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2202"/>
+ </defs>
+ <g id="layer4">
+  <circle id="path2402" cx="50" cy="50" r="1.58" fill-opacity=".882" fill-rule="evenodd"/>
+ </g>
+</svg>

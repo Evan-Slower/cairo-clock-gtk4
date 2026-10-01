@@ -1,0 +1,49 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" sodipodi:docbase="/media/hda5/Gemeinsame Dokumente/uhr/Balls" sodipodi:docname="clock-marks.svg" sodipodi:version="0.32" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient2202">
+   <stop id="stop2204" stop-color="#a5adad" offset="0"/>
+   <stop id="stop2206" stop-color="#e8f4ed" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3420" cx="36.7" cy="35" r="18.7" gradientTransform="matrix(.87 .399 -.58 .584 18.8 -15.6)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3996"/>
+  <radialGradient id="radialGradient3416" cx="20.6" cy="36.9" r="18.7" gradientTransform="matrix(1.63 -.306 .464 1.15 -28.7 3.79)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3996"/>
+  <linearGradient id="linearGradient3996">
+   <stop id="stop3408" stop-color="#e7e7e7" offset="0"/>
+   <stop id="stop3406" stop-color="#858585" offset=".658"/>
+   <stop id="stop3402" stop-color="#aaa" offset=".859"/>
+   <stop id="stop4000" stop-color="#efefef" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5754">
+   <stop id="stop5756" stop-color="#858585" offset="0"/>
+   <stop id="stop5762" stop-color="#979797" offset=".718"/>
+   <stop id="stop5764" stop-color="#b3b3b3" offset=".948"/>
+   <stop id="stop5758" stop-color="#f3f3f3" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2228" x1="47.9" x2="51.6" y1="17.8" y2="17.8" gradientTransform="matrix(1 0 0 .525 .416 8.71)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3996"/>
+  <linearGradient id="linearGradient2236" x1="47.4" x2="52.1" y1="17.8" y2="17.8" gradientTransform="matrix(1 0 0 .525 .416 8.71)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5754"/>
+  <linearGradient id="linearGradient2240" x1="47.4" x2="52.1" y1="17.8" y2="17.8" gradientTransform="matrix(1 0 0 .525 .347 74)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5754"/>
+  <linearGradient id="linearGradient2242" x1="47.9" x2="51.6" y1="17.8" y2="17.8" gradientTransform="matrix(1 0 0 .525 .347 74)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3996"/>
+  <linearGradient id="linearGradient2246" x1="47.4" x2="52.1" y1="17.8" y2="17.8" gradientTransform="matrix(1 0 0 .525 .375 74.8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5754"/>
+  <linearGradient id="linearGradient2248" x1="47.9" x2="51.6" y1="17.8" y2="17.8" gradientTransform="matrix(1 0 0 .525 .375 74.8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3996"/>
+  <linearGradient id="linearGradient2252" x1="47.4" x2="52.1" y1="17.8" y2="17.8" gradientTransform="matrix(1 0 0 .525 .274 7.39)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5754"/>
+  <linearGradient id="linearGradient2254" x1="47.9" x2="51.6" y1="17.8" y2="17.8" gradientTransform="matrix(1 0 0 .525 .274 7.39)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3996"/>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" pagecolor="#ffffff" showguides="true">
+  <sodipodi:guide id="guide1307" orientation="horizontal" position="50"/>
+  <sodipodi:guide id="guide1309" orientation="vertical" position="50"/>
+  <sodipodi:guide id="guide1311" orientation="horizontal" position="100"/>
+  <sodipodi:guide id="guide1313" orientation="vertical" position="0"/>
+  <sodipodi:guide id="guide1315" orientation="vertical" position="100"/>
+  <sodipodi:guide id="guide1317" orientation="horizontal" position="0"/>
+  <sodipodi:guide id="guide1319" orientation="horizontal" position="90.060241"/>
+  <sodipodi:guide id="guide1321" orientation="vertical" position="10.040161"/>
+  <sodipodi:guide id="guide1323" orientation="vertical" position="90.060241"/>
+  <sodipodi:guide id="guide1325" orientation="horizontal" position="10.040161"/>
+ </sodipodi:namedview>
+ <g id="layer1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4.53" stroke-width=".725">
+  <rect id="rect1347" x="48.3" y="14.9" width="3.75" height="6.2" rx="1.87" ry="1.87" fill="url(#linearGradient2236)" stroke="url(#linearGradient2228)"/>
+  <rect id="rect2238" x="48.2" y="80.3" width="3.75" height="6.2" rx="1.87" ry="1.87" fill="url(#linearGradient2240)" stroke="url(#linearGradient2242)"/>
+  <rect id="rect2244" transform="matrix(0,1,1,0,0,0)" x="48.3" y="81" width="3.75" height="6.2" rx="1.87" ry="1.87" fill="url(#linearGradient2246)" stroke="url(#linearGradient2248)"/>
+  <rect id="rect2250" transform="matrix(0,1,1,0,0,0)" x="48.2" y="13.6" width="3.75" height="6.2" rx="1.87" ry="1.87" fill="url(#linearGradient2252)" stroke="url(#linearGradient2254)"/>
+ </g>
+</svg>

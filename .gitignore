@@ -1,0 +1,8 @@
+builddir/
+compile_commands.json
+src/*.o
+*.swp
+.vscode/
+.idea/
+po/*.mo
+*.log

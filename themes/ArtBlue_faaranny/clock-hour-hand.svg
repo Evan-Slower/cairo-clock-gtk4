@@ -1,0 +1,17 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <radialGradient id="radialGradient3860" cx="8.87" cy="-4.18" r="25.1" gradientTransform="matrix(1.46 .00658 -.0402 .199 -8.02 .559)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3857-9-8-6" stop-color="#ffe8ae" offset="0"/>
+   <stop id="stop3861-9-2-4" stop-color="#a78a3b" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g id="layer2">
+  <g id="g3819-2" transform="matrix(.729 0 0 1 -1.75 1.9e-6)">
+   <path id="path3026-2" d="m-6.11-0.373 8.79 0.0416 10.1-2.37 18.1 2.7-18.1 2.45-9.98-2.12-8.87-0.0832z" fill="none" stroke="#000" stroke-width=".72px"/>
+   <path id="path3028-2" d="m-5.87-0.0401 35.1 0.0416" fill="none" stroke="#000" stroke-width=".72px"/>
+   <path id="path3800-8" d="m6.11-0.325-2.04-0.0219 8.71-2.05 14.1 2.11-9.34-0.00599c-5.14-0.00329-10.3-0.0158-11.4-0.0278z" fill="#ded2d2" stroke="#f5db0e" stroke-width=".00574"/>
+   <path id="path3802-3" d="m8.33 1.21-4.46-0.95 9.94 0.00436c5.46 0.0024 10.5 0.0158 11.2 0.0298l1.29 0.0254-5.64 0.765c-3.1 0.421-6.15 0.835-6.76 0.92l-1.12 0.154-4.46-0.95z" fill="#fff" stroke="#f5db0e" stroke-width=".00574"/>
+  </g>
+ </g>
+</svg>

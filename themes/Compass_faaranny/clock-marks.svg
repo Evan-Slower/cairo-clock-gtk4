@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg3005"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="clock-marks.svg">
+  <defs
+     id="defs3007">
+    <linearGradient
+       id="linearGradient3778-6-7-9-9-7">
+      <stop
+         style="stop-color:#ebb304;stop-opacity:1;"
+         offset="0"
+         id="stop3780-9-2-3-8-9" />
+      <stop
+         id="stop5893-1-2"
+         offset="0.98000002"
+         style="stop-color:#eb2204;stop-opacity:1;" />
+      <stop
+         style="stop-color:#eb8304;stop-opacity:1;"
+         offset="1"
+         id="stop3782-8-2-7-5-9" />
+    </linearGradient>
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8057-2"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8059-5"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8061-8"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8063-9"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8065-4"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8067-1"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8069-2"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8071-0"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8073-9"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8075-4"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8077-6"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8079-7"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8081-1"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8083-0"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8085-0"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8087-9"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8089-3"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8091-7"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8093-6"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8095-3"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8097-8"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8099-6"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient8101-0"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+    <radialGradient
+       r="42.973221"
+       fy="1001.9459"
+       fx="49.56456"
+       cy="1001.9459"
+       cx="49.56456"
+       gradientTransform="matrix(1,0,0,1.0036433,0,-3.6504236)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5523"
+       xlink:href="#linearGradient3778-6-7-9-9-7"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="75.178571"
+     inkscape:cy="43.749157"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1202"
+     inkscape:window-height="953"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-47.857143,50"
+       id="guide3038" />
+    <sodipodi:guide
+       orientation="0.85535961,0.51803469"
+       position="50,50"
+       id="guide2988" />
+    <sodipodi:guide
+       orientation="0.85557234,-0.51768327"
+       position="50,50"
+       id="guide2990" />
+    <sodipodi:guide
+       orientation="0.47152207,-0.88185426"
+       position="50,50"
+       id="guide2992" />
+    <sodipodi:guide
+       orientation="0.46023049,0.88779947"
+       position="50,50"
+       id="guide2994" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3010">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36218)">
+    <g
+       id="g5833"
+       style="fill:#000000;fill-opacity:1;display:inline"
+       transform="matrix(0.86282707,0,0,0.85591475,7.1009384,144.86825)">
+      <g
+         transform="matrix(0.698212,0.40311289,-0.62017367,1.0741723,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3">
+        <path
+           d="m 677.15708,652.55202 c 0,0.0978 -0.0489,0.14674 -0.14673,0.14674 l -1.02713,0 c -0.0978,0 -0.14674,-0.0489 -0.14674,-0.14674 l 0,-8.21705 c 0,-0.0978 0.0489,-0.14672 0.14674,-0.14673 l 1.02713,0 c 0.0978,1e-5 0.14673,0.0489 0.14673,0.14673 l 0,8.21705"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3066"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.40311289,0.698212,-1.0741723,0.62017367,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-9">
+        <path
+           d="m 1108.3329,342.66302 c 0,0.0978 -0.049,0.14673 -0.1467,0.14673 l -1.0271,0 c -0.098,0 -0.1468,-0.0489 -0.1468,-0.14673 l 0,-8.21706 c 0,-0.0978 0.049,-0.14672 0.1468,-0.14673 l 1.0271,0 c 0.098,10e-6 0.1467,0.0489 0.1467,0.14673 l 0,8.21706"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3069"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.40311289,0.698212,-1.0741723,0.62017367,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-0">
+        <path
+           d="m 1111.1497,342.6433 c 0,0.0978 -0.049,0.14673 -0.1467,0.14674 l -1.0272,0 c -0.098,-10e-6 -0.1467,-0.0489 -0.1467,-0.14674 l 0,-8.21705 c 0,-0.0978 0.049,-0.14673 0.1467,-0.14673 l 1.0272,0 c 0.098,0 0.1467,0.0489 0.1467,0.14673 l 0,8.21705"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3072"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0,0.8062258,-1.2403473,0,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-6">
+        <path
+           d="m 1240.4851,-66.059708 c 0,0.09782 -0.049,0.146732 -0.1467,0.146733 l -1.0271,0 c -0.098,-10e-7 -0.1468,-0.04891 -0.1468,-0.146733 l 0,-8.217053 c 0,-0.09781 0.049,-0.146725 0.1468,-0.146733 l 1.0271,0 c 0.098,8e-6 0.1467,0.04892 0.1467,0.146733 l 0,8.217053"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3075"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0,0.8062258,-1.2403473,0,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-0-4">
+        <path
+           d="m 1243.3019,-66.079461 c 0,0.09782 -0.049,0.146733 -0.1467,0.146733 l -1.0271,0 c -0.098,0 -0.1468,-0.04891 -0.1468,-0.146733 l 0,-8.217053 c 0,-0.09781 0.049,-0.146725 0.1468,-0.146733 l 1.0271,0 c 0.098,8e-6 0.1467,0.04892 0.1467,0.146733 l 0,8.217053"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3078"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0,0.8062258,-1.2403473,0,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-4-9">
+        <path
+           d="m 1246.1436,-66.118401 c 0,0.09782 -0.049,0.146732 -0.1467,0.146733 l -1.0272,0 c -0.098,-1e-6 -0.1467,-0.04891 -0.1467,-0.146733 l 0,-8.217053 c 0,-0.09781 0.049,-0.146725 0.1467,-0.146733 l 1.0272,0 c 0.098,8e-6 0.1467,0.04892 0.1467,0.146733 l 0,8.217053"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3081"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-0.40311289,0.69821201,-1.0741723,-0.62017366,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text3271-7-3">
+        <path
+           d="m 1047.9626,-464.40077 c -0.023,0.0602 -0.045,0.0941 -0.068,0.10158 -0.023,0.0151 -0.06,0.0226 -0.1129,0.0226 l -0.9819,0 c -0.053,-10e-6 -0.09,-0.008 -0.1129,-0.0226 -0.023,-0.008 -0.045,-0.0414 -0.068,-0.10158 l -3.0814,-8.22834 c -0.015,-0.0527 -0.015,-0.0903 0,-0.11288 0.015,-0.0301 0.075,-0.0451 0.1806,-0.0451 l 0.9707,0 c 0.06,0 0.1015,0.008 0.1241,0.0226 0.023,0.008 0.041,0.0376 0.056,0.0903 l 2.4041,6.56913 2.4268,-6.56913 c 0.023,-0.0527 0.045,-0.0828 0.068,-0.0903 0.022,-0.015 0.064,-0.0226 0.1241,-0.0226 l 0.9707,0 c 0.098,0 0.1543,0.015 0.1693,0.0451 0.023,0.0226 0.026,0.0602 0.011,0.11288 l -3.0814,8.22834"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3084"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-0.40311289,0.698212,-1.0741723,-0.62017367,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-4-7">
+        <path
+           d="m 1042.2459,-464.33866 c 0,0.0978 -0.049,0.14673 -0.1467,0.14673 l -1.0272,0 c -0.098,0 -0.1467,-0.0489 -0.1467,-0.14673 l 0,-8.21705 c 0,-0.0978 0.049,-0.14673 0.1467,-0.14674 l 1.0272,0 c 0.098,10e-6 0.1467,0.0489 0.1467,0.14674 l 0,8.21705"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3087"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-0.69821202,0.4031129,-0.62017365,-1.0741723,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text3271-7">
+        <path
+           d="m 567.80748,-746.10546 c -0.0226,0.0602 -0.0452,0.0941 -0.0677,0.10159 -0.0226,0.015 -0.0602,0.0226 -0.11287,0.0226 l -0.98198,0 c -0.0527,0 -0.0903,-0.008 -0.11287,-0.0226 -0.0226,-0.008 -0.0452,-0.0414 -0.0677,-0.10159 l -3.08139,-8.22834 c -0.015,-0.0527 -0.015,-0.0903 0,-0.11287 0.015,-0.0301 0.0752,-0.0451 0.18059,-0.0451 l 0.9707,0 c 0.0602,10e-6 0.10158,0.008 0.12416,0.0226 0.0226,0.008 0.0414,0.0376 0.0564,0.0903 l 2.40417,6.56912 2.42674,-6.56912 c 0.0226,-0.0527 0.0451,-0.0828 0.0677,-0.0903 0.0226,-0.015 0.0639,-0.0226 0.12416,-0.0226 l 0.97069,0 c 0.0978,10e-6 0.15425,0.0151 0.16931,0.0451 0.0226,0.0226 0.0263,0.0602 0.0113,0.11287 l -3.0814,8.22834"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3090"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="scale(-0.8062258,-1.2403473)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text3271-7-1">
+        <path
+           d="m -63.81013,-834.04796 c -0.02258,0.0602 -0.04515,0.0941 -0.06772,0.10158 -0.02258,0.015 -0.0602,0.0226 -0.112872,0.0226 l -0.981983,0 c -0.05268,0 -0.0903,-0.008 -0.112872,-0.0226 -0.02258,-0.008 -0.04515,-0.0414 -0.06772,-0.10158 l -3.081395,-8.22834 c -0.01505,-0.0527 -0.01505,-0.0903 0,-0.11287 0.01505,-0.0301 0.07525,-0.0451 0.180595,-0.0451 l 0.970696,0 c 0.0602,10e-6 0.101583,0.008 0.124159,0.0226 0.02257,0.008 0.04139,0.0376 0.05644,0.0903 l 2.404166,6.56913 2.426739,-6.56913 c 0.02257,-0.0527 0.04514,-0.0828 0.06772,-0.0903 0.02257,-0.015 0.06395,-0.0226 0.124159,-0.0226 l 0.970696,0 c 0.09781,10e-6 0.15425,0.0151 0.169307,0.0451 0.02257,0.0226 0.02633,0.0602 0.01129,0.11287 l -3.081394,8.22834"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3093"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="scale(-0.8062258,-1.2403473)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-4-2">
+        <path
+           d="m -58.494938,-834.07908 c -2e-6,0.0978 -0.04891,0.14673 -0.146733,0.14673 l -1.027132,0 c -0.09782,0 -0.146734,-0.0489 -0.146733,-0.14673 l 0,-8.21705 c -10e-7,-0.0978 0.04891,-0.14673 0.146733,-0.14674 l 1.027132,0 c 0.09782,10e-6 0.146731,0.0489 0.146733,0.14674 l 0,8.21705"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3096"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-0.69821202,-0.4031129,0.62017365,-1.0741723,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text3271-7-1-7">
+        <path
+           d="m -677.86915,-705.69078 c -0.0226,0.0602 -0.0452,0.0941 -0.0677,0.10158 -0.0226,0.015 -0.0602,0.0226 -0.11288,0.0226 l -0.98198,0 c -0.0527,0 -0.0903,-0.008 -0.11287,-0.0226 -0.0226,-0.008 -0.0452,-0.0414 -0.0677,-0.10158 l -3.0814,-8.22834 c -0.015,-0.0527 -0.015,-0.0903 0,-0.11287 0.015,-0.0301 0.0752,-0.0451 0.1806,-0.0452 l 0.97069,0 c 0.0602,10e-6 0.10159,0.008 0.12416,0.0226 0.0226,0.008 0.0414,0.0376 0.0564,0.0903 l 2.40416,6.56913 2.42674,-6.56913 c 0.0226,-0.0527 0.0451,-0.0828 0.0677,-0.0903 0.0226,-0.015 0.064,-0.0226 0.12416,-0.0226 l 0.9707,0 c 0.0978,10e-6 0.15425,0.015 0.16931,0.0452 0.0226,0.0226 0.0263,0.0602 0.0113,0.11287 l -3.08139,8.22834"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3099"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-0.698212,-0.40311289,0.62017367,-1.0741723,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-4-2-4">
+        <path
+           d="m -672.55404,-705.72202 c 0,0.0978 -0.0489,0.14673 -0.14673,0.14673 l -1.02713,0 c -0.0978,0 -0.14674,-0.0489 -0.14674,-0.14673 l 0,-8.21706 c 0,-0.0978 0.0489,-0.14672 0.14674,-0.14673 l 1.02713,0 c 0.0978,1e-5 0.14673,0.0489 0.14673,0.14673 l 0,8.21706"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3102"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-0.698212,-0.40311289,0.62017367,-1.0741723,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-4-4">
+        <path
+           d="m -669.92825,-705.70347 c 0,0.0978 -0.0489,0.14673 -0.14673,0.14673 l -1.02713,0 c -0.0978,0 -0.14673,-0.0489 -0.14673,-0.14673 l 0,-8.21705 c 0,-0.0978 0.0489,-0.14673 0.14673,-0.14674 l 1.02713,0 c 0.0978,1e-5 0.14673,0.0489 0.14673,0.14674 l 0,8.21705"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3105"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-0.4031129,-0.69821202,1.0741723,-0.62017365,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text3271-7-1-3">
+        <path
+           d="m -1110.46,-395.18712 c -0.023,0.0602 -0.045,0.0941 -0.068,0.10158 -0.023,0.015 -0.06,0.0226 -0.1129,0.0226 l -0.9819,0 c -0.053,0 -0.09,-0.008 -0.1129,-0.0226 -0.023,-0.008 -0.045,-0.0414 -0.068,-0.10158 l -3.0814,-8.22834 c -0.015,-0.0527 -0.015,-0.0903 0,-0.11287 0.015,-0.0301 0.075,-0.0451 0.1806,-0.0452 l 0.9707,0 c 0.06,1e-5 0.1015,0.008 0.1241,0.0226 0.023,0.008 0.041,0.0376 0.056,0.0903 l 2.4042,6.56913 2.4268,-6.56913 c 0.023,-0.0527 0.045,-0.0828 0.068,-0.0903 0.023,-0.015 0.064,-0.0226 0.1241,-0.0226 l 0.9707,0 c 0.098,1e-5 0.1543,0.0151 0.1693,0.0452 0.023,0.0226 0.026,0.0602 0.011,0.11287 l -3.0814,8.22834"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3108"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-0.40311289,-0.698212,1.0741723,-0.62017367,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-4-2-48">
+        <path
+           d="m -1105.1447,-395.21836 c 0,0.0978 -0.049,0.14673 -0.1468,0.14673 l -1.0271,0 c -0.098,0 -0.1467,-0.0489 -0.1467,-0.14673 l 0,-8.21705 c 0,-0.0978 0.049,-0.14673 0.1467,-0.14674 l 1.0271,0 c 0.098,1e-5 0.1468,0.0489 0.1468,0.14674 l 0,8.21705"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3111"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-0.40311289,-0.698212,1.0741723,-0.62017367,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-4-4-4">
+        <path
+           d="m -1102.519,-395.19984 c 0,0.0978 -0.049,0.14674 -0.1467,0.14674 l -1.0272,0 c -0.098,0 -0.1467,-0.0489 -0.1467,-0.14674 l 0,-8.21705 c 0,-0.0978 0.049,-0.14673 0.1467,-0.14673 l 1.0272,0 c 0.098,0 0.1467,0.0489 0.1467,0.14673 l 0,8.21705"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3114"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-0.40311289,-0.698212,1.0741723,-0.62017367,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-4-5">
+        <path
+           d="m -1100.0805,-395.25291 c 0,0.0978 -0.049,0.14674 -0.1468,0.14674 l -1.0271,0 c -0.098,0 -0.1467,-0.0489 -0.1467,-0.14674 l 0,-8.21705 c 0,-0.0978 0.049,-0.14673 0.1467,-0.14673 l 1.0271,0 c 0.098,0 0.1468,0.0489 0.1468,0.14673 l 0,8.21705"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3117"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0,-0.8062258,1.2403473,0,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-4-3">
+        <path
+           d="m -1245.5189,13.802053 c 0,0.09782 -0.049,0.146733 -0.1467,0.146733 l -1.0271,0 c -0.098,0 -0.1468,-0.04891 -0.1468,-0.146733 l 0,-8.2170531 c 0,-0.097814 0.049,-0.1467252 0.1468,-0.1467331 l 1.0271,0 c 0.098,7.9e-6 0.1467,0.048919 0.1467,0.1467331 l 0,8.2170531"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3120"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0,-0.8062258,1.2403473,0,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text5033-3-3">
+        <path
+           d="m -1238.5415,13.948817 c -0.083,-10e-7 -0.1393,-0.02634 -0.1694,-0.07901 l -2.1558,-3.239415 -2.1671,3.239415 c -0.03,0.05267 -0.087,0.07901 -0.1693,0.07901 l -1.2078,0 c -0.09,-10e-7 -0.1016,-0.04891 -0.034,-0.146734 l 2.8443,-4.2552592 -2.6412,-3.9730806 c -0.023,-0.037616 -0.026,-0.067715 -0.011,-0.090297 0.015,-0.030091 0.053,-0.045141 0.1129,-0.045149 l 1.14,0 c 0.083,7.9e-6 0.1355,0.022582 0.158,0.067723 l 1.964,2.9459489 1.9753,-2.9459489 c 0.023,-0.045141 0.075,-0.067715 0.158,-0.067723 l 1.14,0 c 0.06,7.9e-6 0.098,0.015057 0.1129,0.045149 0.015,0.022582 0.011,0.052681 -0.011,0.090297 l -2.6412,3.9730806 2.8443,4.2552592 c 0.068,0.09782 0.056,0.146733 -0.034,0.146734 l -1.2077,0"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3123"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.69821202,-0.4031129,0.62017365,1.0741723,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text5033-3-32">
+        <path
+           d="m -568.19621,693.66616 c -0.0828,0 -0.13921,-0.0263 -0.16931,-0.079 l -2.15585,-3.23941 -2.16713,3.23941 c -0.0301,0.0527 -0.0865,0.079 -0.16931,0.079 l -1.20772,0 c -0.0903,0 -0.10159,-0.0489 -0.0339,-0.14673 l 2.84437,-4.25526 -2.6412,-3.97308 c -0.0226,-0.0376 -0.0263,-0.0677 -0.0113,-0.0903 0.015,-0.0301 0.0527,-0.0451 0.11287,-0.0451 l 1.14,0 c 0.0828,0 0.13545,0.0226 0.15802,0.0677 l 1.96397,2.94595 1.97525,-2.94595 c 0.0226,-0.0451 0.0752,-0.0677 0.15802,-0.0677 l 1.14,0 c 0.0602,0 0.0978,0.015 0.11288,0.0451 0.015,0.0226 0.0113,0.0527 -0.0113,0.0903 l -2.6412,3.97308 2.84437,4.25526 c 0.0677,0.0978 0.0564,0.14673 -0.0339,0.14673 l -1.20773,0"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3126"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.69821202,-0.4031129,0.62017365,1.0741723,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text4009-3-4-31">
+        <path
+           d="m -564.68014,693.51894 c 0,0.0978 -0.0489,0.14674 -0.14673,0.14674 l -1.02713,0 c -0.0978,0 -0.14674,-0.0489 -0.14674,-0.14674 l 0,-8.21705 c 0,-0.0978 0.0489,-0.14672 0.14674,-0.14673 l 1.02713,0 c 0.0978,10e-6 0.14673,0.0489 0.14673,0.14673 l 0,8.21705"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3129"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="scale(0.8062258,1.2403473)"
+         inkscape:transform-center-x="7.3584219"
+         inkscape:transform-center-y="23.486047"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text2985-6">
+        <path
+           d="m 61.699835,781.65701 c -0.08278,0 -0.139214,-0.0263 -0.169307,-0.079 l -2.155848,-3.23942 -2.167135,3.23942 c -0.0301,0.0527 -0.08654,0.079 -0.169307,0.079 l -1.207726,0 c -0.0903,0 -0.101585,-0.0489 -0.03386,-0.14673 l 2.844365,-4.25526 -2.641196,-3.97308 c -0.02258,-0.0376 -0.02634,-0.0677 -0.01129,-0.0903 0.01505,-0.0301 0.05267,-0.0451 0.112872,-0.0452 l 1.140003,0 c 0.08277,10e-6 0.135444,0.0226 0.15802,0.0677 l 1.963966,2.94595 1.975253,-2.94595 c 0.02257,-0.0451 0.07524,-0.0677 0.158021,-0.0677 l 1.140003,0 c 0.06019,10e-6 0.09781,0.0151 0.112871,0.0452 0.01504,0.0226 0.01128,0.0527 -0.01129,0.0903 l -2.641195,3.97308 2.844364,4.25526 c 0.06772,0.0978 0.05643,0.14673 -0.03386,0.14673 l -1.207727,0"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3132"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 65.199032,781.51028 c -2e-6,0.0978 -0.04891,0.14673 -0.146733,0.14673 l -1.027132,0 c -0.09782,0 -0.146734,-0.0489 -0.146733,-0.14673 l 0,-8.21706 c -10e-7,-0.0978 0.04891,-0.14672 0.146733,-0.14673 l 1.027132,0 c 0.09782,10e-6 0.146731,0.0489 0.146733,0.14673 l 0,8.21706"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3134"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 67.932641,781.51028 c -2e-6,0.0978 -0.04891,0.14673 -0.146733,0.14673 l -1.027132,0 c -0.09782,0 -0.146734,-0.0489 -0.146733,-0.14673 l 0,-8.21706 c -10e-7,-0.0978 0.04891,-0.14672 0.146733,-0.14673 l 1.027132,0 c 0.09782,10e-6 0.146731,0.0489 0.146733,0.14673 l 0,8.21706"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3136"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.41983828,-0.68828471,1.0588995,0.64590503,0,0)"
+         style="font-size:11.28716087px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;font-family:NanumGothic;-inkscape-font-specification:NanumGothic Bold"
+         id="text5033-3-32-5">
+        <path
+           d="m -1030.2554,429.22946 c -0.083,0 -0.1392,-0.0263 -0.1693,-0.079 l -2.1559,-3.23942 -2.1671,3.23942 c -0.03,0.0527 -0.087,0.079 -0.1693,0.079 l -1.2077,0 c -0.09,0 -0.1016,-0.0489 -0.034,-0.14673 l 2.8444,-4.25526 -2.6412,-3.97309 c -0.023,-0.0376 -0.026,-0.0677 -0.011,-0.0903 0.015,-0.0301 0.053,-0.0451 0.1129,-0.0452 l 1.14,0 c 0.083,10e-6 0.1354,0.0226 0.158,0.0677 l 1.9639,2.94595 1.9753,-2.94595 c 0.023,-0.0451 0.075,-0.0677 0.158,-0.0677 l 1.14,0 c 0.06,10e-6 0.098,0.0151 0.1129,0.0452 0.015,0.0226 0.011,0.0527 -0.011,0.0903 l -2.6412,3.97309 2.8444,4.25526 c 0.068,0.0978 0.056,0.14673 -0.034,0.14673 l -1.2077,0"
+           style="fill:#000000;-inkscape-font-specification:NanumGothic Bold"
+           id="path3139"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

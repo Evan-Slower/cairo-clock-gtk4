@@ -1,0 +1,36 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" sodipodi:docbase="/home/mirco/Desktop/Downloads/cairo-clock-0.3.1/themes/zen" sodipodi:docname="clock-drop-shadow.svg" sodipodi:version="0.32" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient2202">
+   <stop id="stop2204" offset="0"/>
+   <stop id="stop2200" stop-opacity=".498" offset=".671"/>
+   <stop id="stop2485" stop-opacity=".247" offset=".952"/>
+   <stop id="stop2206" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient2208" cx="29.1" cy="22.9" r="19.2" gradientTransform="matrix(.945 3.01e-16 -4.48e-16 .651 1.6 8.02)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2202"/>
+  <radialGradient id="radialGradient8070" cx="50.2" cy="50.1" r="40" gradientTransform="matrix(.989 3.56e-16 -3.57e-16 .993 .534 .357)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2202"/>
+  <linearGradient id="linearGradient6944" x1="-4.8" x2="83.5" y1="48.1" y2="32.8" gradientTransform="translate(4e-6 2.53)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2202"/>
+  <linearGradient id="linearGradient6940" x1="42.3" x2="51.4" y1="5.75" y2="40.8" gradientTransform="translate(4e-6 2.53)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2202"/>
+  <linearGradient id="linearGradient6937" x1="42.3" x2="51.4" y1="5.75" y2="40.8" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2202"/>
+  <linearGradient id="linearGradient8161">
+   <stop id="stop8163" stop-color="#fff" stop-opacity=".125" offset="0"/>
+   <stop id="stop8165" stop-color="#fff" stop-opacity=".188" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1581" x1="-4.8" x2="83.5" y1="48.1" y2="32.8" gradientTransform="translate(-.0671 -.0524)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2202"/>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" pagecolor="#ffffff" showguides="true">
+  <sodipodi:guide id="guide1307" orientation="horizontal" position="50"/>
+  <sodipodi:guide id="guide1309" orientation="vertical" position="50"/>
+  <sodipodi:guide id="guide1311" orientation="horizontal" position="100"/>
+  <sodipodi:guide id="guide1313" orientation="vertical" position="0"/>
+  <sodipodi:guide id="guide1315" orientation="vertical" position="100"/>
+  <sodipodi:guide id="guide1317" orientation="horizontal" position="0"/>
+  <sodipodi:guide id="guide1319" orientation="horizontal" position="90.060241"/>
+  <sodipodi:guide id="guide1321" orientation="vertical" position="10.040161"/>
+  <sodipodi:guide id="guide1323" orientation="vertical" position="90.060241"/>
+  <sodipodi:guide id="guide1325" orientation="horizontal" position="10.040161"/>
+ </sodipodi:namedview>
+ <g id="layer1">
+  <path id="path7189" transform="matrix(.997 0 0 .997 1.97 2.97)" d="m90.2 50.1a40 40.1 0 1 1-79.9 0 40 40.1 0 1 1 79.9 0z" fill="url(#radialGradient8070)" opacity=".75" sodipodi:cx="50.193222" sodipodi:cy="50.090755" sodipodi:rx="39.969994" sodipodi:ry="40.11198" sodipodi:type="arc"/>
+ </g>
+</svg>

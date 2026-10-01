@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Cairo Clock
+Exec=/usr/local/bin/cairo-clock-gtk4
+X-GNOME-Autostart-enabled=true
+NoDisplay=true

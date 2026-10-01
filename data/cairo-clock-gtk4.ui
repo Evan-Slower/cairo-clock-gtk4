@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <requires lib="gtk" version="4.0"/>
+  <requires lib="gtk" version="4.0"/>
+  <requires lib="gtk" version="4.0"/>
+  <object class="GtkAdjustment" id="adjustment1">
+    <property name="value">100</property>
+    <property name="lower">50</property>
+    <property name="upper">1023</property>
+    <property name="step-increment">1</property>
+    <property name="page-increment">10</property>
+    <property name="page-size">10</property>
+  </object>
+  <object class="GtkAdjustment" id="adjustment2">
+      <property name="value">100</property>
+      <property name="lower">50</property>
+      <property name="upper">1023</property>
+      <property name="step-increment">1</property>
+      <property name="page-increment">10</property>
+      <property name="page-size">10</property>
+  </object>   
+  <object class="GtkAdjustment" id="adjustment3">
+    <property name="value">30</property>
+    <property name="lower">1</property>
+    <property name="upper">60</property>
+    <property name="step-increment">1</property>
+    <property name="page-increment">10</property>
+    <property name="page-size">10</property>
+  </object>
+  <object class="GtkStringList" id="model1">
+  <items>
+    <item translatable="yes">Small (150x150)</item>
+    <item translatable="yes">Medium (250x250)</item>
+    <item translatable="yes">Large (350x350)</item>
+    <item translatable="yes">Custom 1</item>
+    <item translatable="yes">Custom 2</item>
+  </items>
+</object>   
+  <object class="GtkWindow" id="settingsDialog">
+    <property name="width-request">300</property>
+    <property name="focusable">1</property>
+    <property name="title" translatable="1">MacSlow&apos;s Cairo-Clock - Settings</property>
+    <property name="destroy-with-parent">1</property>
+    <child>
+      <object class="GtkBox" id="vboxSettings">
+        <property name="orientation">vertical</property>
+        <property name="margin-start">12</property>
+        <property name="margin-end">12</property>
+        <property name="margin-top">12</property>
+        <property name="margin-bottom">12</property>
+        <property name="spacing">6</property>
+        <child>
+          <object class="GtkFrame" id="frameStartupSize">
+            <child>
+              <object class="GtkBox" id="alignmentStartupSize">
+                <property name="orientation">vertical</property>
+                <property name="margin-start">12</property>
+                <property name="margin-end">12</property>
+                <property name="margin-top">6</property>
+                <property name="margin-bottom">6</property>
+                <child>
+                  <object class="GtkBox" id="vboxStartupSize">
+                    <property name="orientation">vertical</property>
+                    <property name="spacing">6</property>
+                    <child>
+                      <object class="GtkDropDown" id="comboboxStartupSize">
+                        <property name="model">model1</property>
+                      </object>
+                    </child>
+                    <child>
+                      <object class="GtkGrid" id="tableStartupSize">
+                        <property name="sensitive">0</property>
+                        <property name="row-spacing">6</property>
+                        <property name="column-spacing">6</property>
+                        <child>
+                          <object class="GtkLabel" id="labelWidth">
+                            <property name="halign">start</property>
+                            <property name="label" translatable="1">Width:</property>
+                            <property name="use-underline">1</property>
+                            <property name="mnemonic-widget">spinbuttonWidth</property>
+                            <layout>
+                              <property name="column">0</property>
+                              <property name="row">0</property>
+                            </layout>
+                          </object>
+                        </child>
+                        <child>
+                          <object class="GtkLabel" id="labelHeight">
+                            <property name="halign">start</property>
+                            <property name="label" translatable="1">Height:</property>
+                            <property name="use-underline">1</property>
+                            <property name="mnemonic-widget">spinbuttonHeight</property>
+                            <layout>
+                              <property name="column">0</property>
+                              <property name="row">1</property>
+                            </layout>
+                          </object>
+                        </child>
+                        <child>
+                          <object class="GtkSpinButton" id="spinbuttonHeight">
+                            <property name="tooltip-text" translatable="1">initial window-height when program starts</property>
+                            <property name="adjustment">adjustment1</property>
+                            <property name="climb-rate">1</property>
+                            <layout>
+                              <property name="column">1</property>
+                              <property name="row">1</property>
+                            </layout>
+                          </object>
+                        </child>
+                        <child>
+                          <object class="GtkSpinButton" id="spinbuttonWidth">
+                            <property name="tooltip-text" translatable="1">initial window-width when program starts</property>
+                            <property name="adjustment">adjustment2</property>
+                            <property name="climb-rate">1</property>
+                            <layout>
+                              <property name="column">1</property>
+                              <property name="row">0</property>
+                            </layout>
+                          </object>
+                        </child>
+                      </object>
+                    </child>
+                  </object>
+                </child>
+              </object>
+            </child>
+            <child type="label">
+              <object class="GtkLabel" id="labelStartupSize">
+                <property name="label" translatable="1">&lt;b&gt;Startup Size&lt;/b&gt;</property>
+                <property name="use-markup">1</property>
+              </object>
+            </child>
+          </object>
+        </child>
+        <child>
+          <object class="GtkFrame" id="frameTheme">
+            <child>
+              <object class="GtkBox" id="alignmentTheme">
+                <property name="orientation">vertical</property>
+                <property name="margin-start">12</property>
+                <property name="margin-end">12</property>
+                <property name="margin-top">6</property>
+                <property name="margin-bottom">6</property>
+                <child>
+                  <object class="GtkDropDown" id="comboboxTheme">
+                  </object>
+                </child>
+              </object>
+            </child>
+            <child type="label">
+              <object class="GtkLabel" id="labelTheme">
+                <property name="label" translatable="1">&lt;b&gt;Theme&lt;/b&gt;</property>
+                <property name="use-markup">1</property>
+              </object>
+            </child>
+          </object>
+        </child>
+        <child>
+          <object class="GtkFrame" id="frameDisplayOptions">
+            <child>
+              <object class="GtkBox" id="alignmentDisplayOptions">
+                <property name="orientation">vertical</property>
+                <property name="margin-start">12</property>
+                <property name="margin-end">12</property>
+                <property name="margin-top">6</property>
+                <property name="margin-bottom">6</property>
+                <child>
+                  <object class="GtkBox" id="vboxDisplayOptions">
+                    <property name="orientation">vertical</property>
+                    <property name="spacing">6</property>
+                    <child>
+                      <object class="GtkCheckButton" id="checkbuttonSeconds">
+                        <property name="valign">center</property>
+                        <property name="tooltip-text" translatable="1">if enabled, the seconds hand will be drawn</property>
+                        <property name="label" translatable="1">Show seconds</property>
+                      </object>
+                    </child>
+                    <child>
+                      <object class="GtkCheckButton" id="checkbuttonDate">
+                        <property name="valign">center</property>
+                        <property name="tooltip-text" translatable="1">if enabled, the current date will be displayed inside the clocks face</property>
+                        <property name="label" translatable="1">Show date</property>
+                      </object>
+                    </child>
+                    <child>
+                      <object class="GtkCheckButton" id="checkbuttonKeepOnTop">
+                        <property name="valign">center</property>
+                        <property name="tooltip-text" translatable="1">if enabled, the clock window will be kept above all other windows</property>
+                        <property name="label" translatable="1">Keep on top</property>
+                      </object>
+                    </child>
+                    <child>
+                      <object class="GtkCheckButton" id="checkbuttonSticky">
+                        <property name="valign">center</property>
+                        <property name="tooltip-text" translatable="yes">If enabled the clock will stick to all workspaces</property>
+                        <property name="label" translatable="1">Stick to every workspace</property>
+                      </object>
+                    </child>
+                    <child>
+                      <object class="GtkCheckButton" id="checkbutton24h">
+                        <property name="valign">center</property>
+                        <property name="tooltip-text" translatable="yes">If enabled time will be displayed in 24-hour format</property>
+                        <property name="label" translatable="1">Use 24h mode</property>
+                      </object>
+                    </child>
+                  </object>
+                </child>
+              </object>
+            </child>
+          </object>
+        </child>
+        <child type="label">
+          <object class="GtkLabel" id="labelDisplayOptions">
+            <property name="label" translatable="1">&lt;b&gt;Display Options&lt;/b&gt;</property>
+            <property name="use-markup">1</property>
+          </object>
+        </child>
+        <child>
+        <object class="GtkFrame" id="frameAnimationSmoothness">
+        <property name="valign">center</property>
+        <child>
+          <object class="GtkBox" id="alignmentAnimationSmoothness">
+            <property name="margin-start">12</property>
+            <property name="margin-end">12</property>
+            <property name="margin-top">6</property>
+            <property name="margin-bottom">6</property>
+              <child>
+              <object class="GtkBox" id="hboxAnimationSmoothness">
+                <property name="spacing">6</property>
+                <child>
+                  <object class="GtkLabel" id="labelRough">
+                    <property name="halign">center</property>
+                    <property name="label" translatable="1">rough</property>
+                  </object>
+                </child>
+                <child>
+                  <object class="GtkScale" id="hscaleSmoothness">
+                  <property name="draw-value">1</property>
+                  <property name="hexpand">1</property>
+                  <property name="valign">center</property>
+                  <property name="adjustment">adjustment3</property>
+                  <property name="digits">0</property>
+                </object>   
+                </child>
+                <child>
+                  <object class="GtkLabel" id="labelSmooth">
+                    <property name="halign">center</property>
+                    <property name="label" translatable="1">smooth</property>
+                  </object>
+                </child>
+              </object>
+            </child>
+          </object>
+        </child>
+        <child type="label">
+          <object class="GtkLabel" id="labelAnimationSmoothness">
+            <property name="label" translatable="1">&lt;b&gt;Animation Smoothness&lt;/b&gt;</property>
+            <property name="use-markup">1</property>
+          </object>
+        </child>
+      </object>
+    </child>
+  </object>
+</child>
+    <child type="titlebar">
+      <object class="GtkHeaderBar">
+      </object>
+    </child>
+  </object>
+  <object class="GtkApplicationWindow" id="mainWindow">
+    <property name="title" translatable="no">MacSlow&apos;s Cairo-Clock</property>
+    <property name="decorated">0</property>
+  </object>
+</interface>

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Cairo Clock GTK4
+Comment=Super fine analog clock
+Exec=cairo-clock-gtk4
+Icon=cairo-clock-gtk4-logo
+Type=Application
+StartupNotify=true
+Terminal=false

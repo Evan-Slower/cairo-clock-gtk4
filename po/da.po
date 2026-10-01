@@ -1,0 +1,287 @@
+# Jens Fursund <jens.fursund@gmail.com>, 2007.
+# 
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: cairo-clock\n"
+"Report-Msgid-Bugs-To: Mirco Müller <macslow@bangang.de>\n"
+"POT-Creation-Date: 2007-08-17 11:14+0100\n"
+"PO-Revision-Date: 2007-08-18 15:29+0200\n"
+"Last-Translator: Peter Frandsen <pfrandsen@gmail.com>\n"
+"Language-Team: Danish <da@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);"
+
+#: ../desktop/cairo-clock.desktop.in.h:1 ../glade/cairo-clock.glade.h:288
+#: ../src/cairo-clock.c:1638
+msgid "MacSlow's Cairo-Clock"
+msgstr "MacSlow's Cairo-Ur"
+
+#: ../desktop/cairo-clock.desktop.in.h:2
+msgid "a super fine analog clock"
+msgstr "et super smart analogt ur"
+
+#: ../glade/cairo-clock.glade.h:1
+msgid "(C) 2006 - 2007 Mirco \"MacSlow\" Müller"
+msgstr "(C) 2006 - 2007 Mirco \"MacSlow\" Müller"
+
+#: ../glade/cairo-clock.glade.h:1.5
+msgid "A 20th anniversary GTK4 port by Evan Slower\nof MacSlow's super fine Cairo-based analog clock"
+msgstr "Et GTK4-port til 20-års jubilæet af Evan Slower\naf MacSlows super fine Cairo-baserede analoge ur"
+
+#: ../glade/cairo-clock.glade.h:2
+msgid "<b>Animation Smoothness</b>"
+msgstr "<b>Animationskvalitet</b>"
+
+#: ../glade/cairo-clock.glade.h:3
+msgid "<b>Display Options</b>"
+msgstr "<b>Visningsindstillinger</b>"
+
+#: ../glade/cairo-clock.glade.h:4
+msgid "<b>Startup Size</b>"
+msgstr "<b>Startstørrelse</b>"
+
+#: ../glade/cairo-clock.glade.h:5
+msgid "<b>Theme</b>"
+msgstr "<b>Tema</b>"
+
+#: ../glade/cairo-clock.glade.h:6
+msgid "Appear in _pager"
+msgstr "Synlig i _oversigt"
+
+#: ../glade/cairo-clock.glade.h:7
+msgid "Appear in task_bar"
+msgstr "Synlig i proceslinien"
+
+#: ../glade/cairo-clock.glade.h:285
+msgid "Height:"
+msgstr "Højde:"
+
+#: ../glade/cairo-clock.glade.h:286
+msgid "About"
+msgstr "Information"
+
+#: ../glade/cairo-clock.glade.h:287
+msgid "Keep on top"
+msgstr "Altid øverst"
+
+#: ../glade/cairo-clock.glade.h:289
+msgid "MacSlow's Cairo-Clock - Error"
+msgstr "MacSlow's Cairo-Ur - Fejl"
+
+#: ../glade/cairo-clock.glade.h:290
+msgid "MacSlow's Cairo-Clock - Information"
+msgstr "MacSlow's Cairo-Ur - Information"
+
+#: ../glade/cairo-clock.glade.h:291
+msgid "MacSlow's Cairo-Clock - Settings"
+msgstr "MacSlow's Cairo-Ur - Indstillinger"
+
+#: ../glade/cairo-clock.glade.h:292
+msgid "Settings"
+msgstr "Egenskaber"
+
+#: ../glade/cairo-clock.glade.h:293
+msgid "Quit"
+msgstr "Afslut"
+
+#: ../glade/cairo-clock.glade.h:294
+msgid "Show date"
+msgstr "Vis dato"
+
+#: ../glade/cairo-clock.glade.h:295
+msgid "Show seconds"
+msgstr "Vis sekunder"
+
+#: ../glade/cairo-clock.glade.h:296
+msgid "Stick to every workspace"
+msgstr "Vis på alle skriveborde"
+
+#: ../glade/cairo-clock.glade.h:297
+msgid "Use 24h mode"
+msgstr "Brug 24 timers tilstand"
+
+#: ../glade/cairo-clock.glade.h:298
+msgid "Width:"
+msgstr "Bredde:"
+
+#: ../glade/cairo-clock.glade.h:299
+msgid "an analog clock based on vector-graphics"
+msgstr "et analogt ur baseret på vektorgrafik"
+
+#: ../glade/cairo-clock.glade.h:300
+msgid "cairo-clock Homepage"
+msgstr "cairo-ur hjemmesiden"
+
+#: ../glade/cairo-clock.glade.h:301
+msgid "close this settings-dialog"
+msgstr "luk denne indstillingsdialog"
+
+#: ../glade/cairo-clock.glade.h:302
+msgid "get information on all settings-options"
+msgstr "vis information om alle indstillingsmuligheder"
+
+#: ../glade/cairo-clock.glade.h:303
+msgid "If enabled the clock will stick to all workspaces"
+msgstr "Hvis aktiveret, vil uret blive vist på alle arbejdsområder"
+
+#: ../glade/cairo-clock.glade.h:304
+msgid "if enabled, the clock window will be kept above all other windows"
+msgstr "hvis aktiveret, vil uret blive over alle andre vinduer"
+
+#: ../glade/cairo-clock.glade.h:305
+msgid "if enabled, the current date will be displayed inside the clocks face"
+msgstr "hvis aktiveret, vil dags dato blive vist på urskiven"
+
+#: ../glade/cairo-clock.glade.h:306
+msgid "if enabled, the seconds hand will be drawn"
+msgstr "hvis aktiveret, vises sekundviseren"
+
+#: ../glade/cairo-clock.glade.h:306.5
+msgid "If enabled time will be displayed in 24-hour format"
+msgstr "Vis tid i 24-timersformat"
+
+#: ../glade/cairo-clock.glade.h:307
+msgid "if enabled, the window of the clock will be shown in the taskbar"
+msgstr "hvis aktiveret, vises urets vindue i proceslinien"
+
+#: ../glade/cairo-clock.glade.h:308
+msgid "initial window-height when program starts"
+msgstr "vindueshøjde når programmet startes"
+
+#: ../glade/cairo-clock.glade.h:309
+msgid "initial window-width when program starts"
+msgstr "vinduesbredde når programmet startes"
+
+#: ../glade/cairo-clock.glade.h:310
+msgid "rough"
+msgstr "grov"
+
+#: data/cairo-clock-gtk4.ui:311
+msgid "Small (150x150)"
+msgstr "Lille (150x150)"
+
+#: data/cairo-clock-gtk4.ui:312
+msgid "Medium (250x250)"
+msgstr "Mellem (250x250)"
+
+#: data/cairo-clock-gtk4.ui:313
+msgid "Large (350x350)"
+msgstr "Stor (350x350)"
+
+#: data/cairo-clock-gtk4.ui:314
+msgid "Custom 1"
+msgstr "Brugerdefineret 1"
+
+#: data/cairo-clock-gtk4.ui:314.5
+msgid "Custom 2"
+msgstr "Brugerdefineret 2"
+
+#: ../glade/cairo-clock.glade.h:315
+msgid "smooth"
+msgstr "glat"
+
+#. TRANSLATORS: Replace this string with your names, one name per line.
+#: ../glade/cairo-clock.glade.h:317
+#, c-format
+msgid "translator-credits"
+msgstr "da: Jens Fursund <jens.fursund@gmail.com>\nPeter Frandsen <pfrandsen@gmail.com>"
+
+#: ../src/cairo-clock.c:830
+msgid "# This file is machine-generated."
+msgstr "# Denne fil er automatisk genereret."
+
+#: ../src/cairo-clock.c:831
+msgid "Do not edit it manually!"
+msgstr "Lad være med at ændre den manuelt!"
+
+#: ../src/cairo-clock.c:832
+msgid "I really mean it!!!"
+msgstr "Jeg mener det virkeligt!!!"
+
+#: ../src/cairo-clock.c:875
+#, c-format
+msgid "Ups, there was an error while trying to save the preferences!\n"
+msgstr "Hov, der opstod en fejl imens indstillingerne blev forsøgt gemt!\n"
+
+#: ../src/cairo-clock.c:1330
+msgid "x-position of the top-left window-corner"
+msgstr "x-position for det øverste venstre vindueshjørne"
+
+#: ../src/cairo-clock.c:1337
+msgid "y-position of the top-left window-corner"
+msgstr "y-position for det øverste venstre vindueshjørne"
+
+#: ../src/cairo-clock.c:1344
+msgid "open window with this width"
+msgstr "åbn vinduet med denne bredde"
+
+#: ../src/cairo-clock.c:1351
+msgid "open window with this height"
+msgstr "åbn vinduet med denne højde"
+
+#: ../src/cairo-clock.c:1358
+msgid "draw seconds hand"
+msgstr "vis sekundviseren"
+
+#: ../src/cairo-clock.c:1365
+msgid "draw date-display"
+msgstr "vis datoen"
+
+#: ../src/cairo-clock.c:1372
+msgid "list installed themes and exit"
+msgstr "vis en liste over installerede temaer og afslut programmet"
+
+#: ../src/cairo-clock.c:1379
+msgid "theme to draw the clock with"
+msgstr "tema som uret skal tegnes med"
+
+#: ../src/cairo-clock.c:1386
+msgid "clock-window stays on top of all windows"
+msgstr "urvinduet forbliver over alle andre vinduer"
+
+#: ../src/cairo-clock.c:1393
+msgid "clock-window shows up in pager"
+msgstr "urvinduet vises i oversigten"
+
+#: ../src/cairo-clock.c:1400
+msgid "clock-window shows up in taskbar"
+msgstr "urvinduet vises i proceslinien"
+
+#: ../src/cairo-clock.c:1407
+msgid "clock-window sticks to all workspaces"
+msgstr "urvinduet vises på alle skriveborde"
+
+#: ../src/cairo-clock.c:1414
+msgid "hands work in 12 hour mode"
+msgstr "viserne bruger 12 timers ur"
+
+#: ../src/cairo-clock.c:1421
+msgid "hands work in 24 hour mode"
+msgstr "viserne bruger 24 timers ur"
+
+#: ../src/cairo-clock.c:1428
+msgid "render at RATE (default: 30 Hz)"
+msgstr "gentegningsfrekvens (standard: 30 Hz)"
+
+#: ../src/cairo-clock.c:1435
+msgid "print version of program and exit"
+msgstr "udskriv programmets version og afslut"
+
+#. setup and process command-line options
+#: ../src/cairo-clock.c:1455
+msgid "- analog clock drawn with vector-graphics"
+msgstr "- analogt ur tegnet med vektorgrafik"
+
+#: ../src/cairo-clock.c:1523
+#, c-format
+msgid "Could not load \"%s\"!\n"
+msgstr "Kunne ikke læse \"%s\"!\n"
+
+#: ../src/cairo-clock.c:1823
+#, c-format
+msgid "Ups, error while trying to save the preferences!\n"
+msgstr "Hov, der opstod en fejl imens indstillingerne blev forsøgt gemt!\n"
+

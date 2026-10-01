@@ -1,0 +1,27 @@
+Installation
+============
+
+Prerequisites:
+  - meson >= 0.64
+  - ninja
+  - gtk4 development libraries (libgtk-4-dev)
+  - cairo development libraries (libcairo2-dev)
+  - librsvg-2.0 development libraries (librsvg2-dev)
+  - x11 development libraries (libx11-dev)
+  - pkg-config
+
+Build and install:
+
+  meson setup builddir --prefix=/usr/local --wipe
+  meson compile -C builddir
+  sudo meson install -C builddir
+
+To install to a user-local prefix (~/.local):
+
+  meson setup builddir --prefix=$HOME/.local --wipe
+  meson compile -C builddir
+  meson install -C builddir
+
+To uninstall:
+
+  meson uninstall -C builddir

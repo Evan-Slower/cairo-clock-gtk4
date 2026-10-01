@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg8"
+   width="100"
+   height="100"
+   version="1.1"
+   viewBox="0 0 26.5 26.5"
+   sodipodi:docname="clock-face.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.46"
+     inkscape:cx="50"
+     inkscape:cy="49.855491"
+     inkscape:window-width="1280"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1274"
+       x1="4.54e-7"
+       x2="1.92"
+       y1="284"
+       y2="284"
+       gradientTransform="translate(-2.85e-7,2.01e-5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1268"
+         stop-color="#86aad8"
+         offset="0" />
+      <stop
+         id="stop1270"
+         stop-color="#17191b"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1284"
+       x1="2.78"
+       x2="4.5"
+       y1="276"
+       y2="277"
+       gradientTransform="translate(-2.85e-7,2.32e-5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1278"
+         stop-color="#86aad8"
+         offset="0" />
+      <stop
+         id="stop1280"
+         stop-color="#17191b"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1294"
+       x1="3.95"
+       x2="5.74"
+       y1="293"
+       y2="291"
+       gradientTransform="translate(-9.42e-7,2.01e-5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1288"
+         stop-color="#86aad8"
+         offset="0" />
+      <stop
+         id="stop1290"
+         stop-color="#17191b"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1304"
+       x1="13.5"
+       x2="13.6"
+       y1="297"
+       y2="295"
+       gradientTransform="translate(-2.85e-7,3.47e-5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1298"
+         stop-color="#86aad8"
+         offset="0" />
+      <stop
+         id="stop1300"
+         stop-color="#17191b"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1314"
+       x1="13.4"
+       x2="13.4"
+       y1="271"
+       y2="273"
+       gradientTransform="translate(-1.25e-6,2.01e-5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1308"
+         stop-color="#86aad8"
+         offset="0" />
+      <stop
+         id="stop1310"
+         stop-color="#17191b"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1324"
+       x1="22.2"
+       x2="20.7"
+       y1="293"
+       y2="292"
+       gradientTransform="translate(-2.85e-7,2.74e-5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1318"
+         stop-color="#86aad8"
+         offset="0" />
+      <stop
+         id="stop1320"
+         stop-color="#17191b"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1334"
+       x1="22.1"
+       x2="20.8"
+       y1="274"
+       y2="275"
+       gradientTransform="translate(-1.39e-7,2.01e-5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1328"
+         stop-color="#86aad8"
+         offset="0" />
+      <stop
+         id="stop1330"
+         stop-color="#17191b"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1344"
+       x1="26.5"
+       x2="25"
+       y1="284"
+       y2="284"
+       gradientTransform="translate(-2.85e-7,1.62e-5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1338"
+         stop-color="#86aad8"
+         offset="0" />
+      <stop
+         id="stop1340"
+         stop-color="#17191b"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <filter
+       id="filter1239"
+       x="-0.011971312"
+       y="-0.011971312"
+       width="1.0239426"
+       height="1.0239426"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur1241"
+         stdDeviation="0.12170833" />
+    </filter>
+    <radialGradient
+       id="radialGradient1249"
+       cx="13.2"
+       cy="284"
+       r="12.2"
+       gradientTransform="matrix(1,0,0,0.989,-5.08e-7,2.95)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1243"
+         stop-color="#cadaee"
+         offset="0" />
+      <stop
+         id="stop1245"
+         stop-color="#86aad8"
+         stop-opacity=".196"
+         offset="1" />
+    </radialGradient>
+    <linearGradient
+       id="linearGradient951"
+       x1="13.2"
+       x2="13.2"
+       y1="3.7"
+       y2="1.82"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop945"
+         stop-color="#86aad8"
+         offset="0" />
+      <stop
+         id="stop947"
+         stop-color="#4480c0"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(0.03253212,-270.72082)"
+     stroke-width="0">
+    <circle
+       id="path1256"
+       cx="13.2"
+       cy="284"
+       r="13.2"
+       fill="url(#linearGradient1274)"
+       style="fill:url(#linearGradient1274)" />
+    <circle
+       id="circle1276"
+       cx="13.2"
+       cy="284"
+       r="13.2"
+       fill="url(#linearGradient1284)"
+       style="fill:url(#linearGradient1284)" />
+    <circle
+       id="circle1286"
+       cx="13.2"
+       cy="284"
+       r="13.2"
+       fill="url(#linearGradient1294)"
+       style="fill:url(#linearGradient1294)" />
+    <circle
+       id="circle1296"
+       cx="13.2"
+       cy="284"
+       r="13.2"
+       fill="url(#linearGradient1304)"
+       style="fill:url(#linearGradient1304)" />
+    <circle
+       id="circle1306"
+       cx="13.2"
+       cy="284"
+       r="13.2"
+       fill="url(#linearGradient1314)"
+       style="fill:url(#linearGradient1314)" />
+    <circle
+       id="circle1316"
+       cx="13.2"
+       cy="284"
+       r="13.2"
+       fill="url(#linearGradient1324)"
+       style="fill:url(#linearGradient1324)" />
+    <circle
+       id="circle1326"
+       cx="13.2"
+       cy="284"
+       r="13.2"
+       fill="url(#linearGradient1334)"
+       style="fill:url(#linearGradient1334)" />
+    <circle
+       id="circle1336"
+       cx="13.2"
+       cy="284"
+       r="13.2"
+       fill="url(#linearGradient1344)"
+       style="fill:url(#linearGradient1344)" />
+    <circle
+       id="circle1346"
+       cx="13.2"
+       cy="284"
+       r="12.2"
+       fill="#8c8c8c"
+       filter="url(#filter1239)" />
+    <ellipse
+       id="circle1161"
+       cx="13.2"
+       cy="284"
+       rx="12.2"
+       ry="12"
+       fill="url(#radialGradient1249)"
+       style="fill:url(#radialGradient1249)" />
+  </g>
+  <g
+     id="layer4"
+     transform="translate(0.05853633,0.18928571)">
+    <rect
+       id="rect965"
+       x="13"
+       y="1.0599999"
+       width="0.52899998"
+       height="2.6500001"
+       rx="0.26499999"
+       ry="0.26499999"
+       fill="#1b1f21"
+       stroke-width="0" />
+    <use
+       id="use969"
+       transform="rotate(30,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect965" />
+    <use
+       id="use971"
+       transform="rotate(60,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect965" />
+    <use
+       id="use973"
+       transform="rotate(90,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect965" />
+    <use
+       id="use975"
+       transform="rotate(120,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect965" />
+    <use
+       id="use977"
+       transform="rotate(150,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect965" />
+    <use
+       id="use979"
+       transform="rotate(180,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect965" />
+    <use
+       id="use981"
+       transform="rotate(-150,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect965" />
+    <use
+       id="use983"
+       transform="rotate(-120,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect965" />
+    <use
+       id="use985"
+       transform="rotate(-90,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect965" />
+    <use
+       id="use987"
+       transform="rotate(-60,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect965" />
+    <use
+       id="use989"
+       transform="rotate(-30,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect965" />
+    <rect
+       id="rect1015"
+       x="13.1"
+       y="1.0599999"
+       width="0.26499999"
+       height="1.0599999"
+       rx="0.132"
+       ry="0.132"
+       fill="#1b1f21"
+       opacity="0.55"
+       stroke-width="0" />
+    <use
+       id="use1019"
+       transform="rotate(6,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1021"
+       transform="rotate(12,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1023"
+       transform="rotate(18,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1025"
+       transform="rotate(24,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1027"
+       transform="rotate(30,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1029"
+       transform="rotate(36,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1031"
+       transform="rotate(42,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1033"
+       transform="rotate(48,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1035"
+       transform="rotate(54,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1037"
+       transform="rotate(60,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1039"
+       transform="rotate(66,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1041"
+       transform="rotate(72,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1043"
+       transform="rotate(78,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1045"
+       transform="rotate(84,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1047"
+       transform="rotate(90,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1049"
+       transform="rotate(96,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1051"
+       transform="rotate(102,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1053"
+       transform="rotate(108,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1055"
+       transform="rotate(114,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1057"
+       transform="rotate(120,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1059"
+       transform="rotate(126,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1061"
+       transform="rotate(132,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1063"
+       transform="rotate(138,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1065"
+       transform="rotate(144,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1067"
+       transform="rotate(150,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1069"
+       transform="rotate(156,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1071"
+       transform="rotate(162,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1073"
+       transform="rotate(168,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1075"
+       transform="rotate(174,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1077"
+       transform="rotate(180,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1079"
+       transform="rotate(-174,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1081"
+       transform="rotate(-168,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1083"
+       transform="rotate(-162,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1085"
+       transform="rotate(-156,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1087"
+       transform="rotate(-150,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1089"
+       transform="rotate(-144,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1091"
+       transform="rotate(-138,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1093"
+       transform="rotate(-132,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1095"
+       transform="rotate(-126,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1097"
+       transform="rotate(-120,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1099"
+       transform="rotate(-114,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1101"
+       transform="rotate(-108,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1103"
+       transform="rotate(-102,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1105"
+       transform="rotate(-96,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1107"
+       transform="rotate(-90,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1109"
+       transform="rotate(-84,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1111"
+       transform="rotate(-78,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1113"
+       transform="rotate(-72,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1115"
+       transform="rotate(-66,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1117"
+       transform="rotate(-60,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1119"
+       transform="rotate(-54,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1121"
+       transform="rotate(-48,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1123"
+       transform="rotate(-42,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1125"
+       transform="rotate(-36,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1127"
+       transform="rotate(-30,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1129"
+       transform="rotate(-24,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1131"
+       transform="rotate(-18,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1133"
+       transform="rotate(-12,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <use
+       id="use1135"
+       transform="rotate(-6,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect1015" />
+    <rect
+       id="rect935"
+       x="13"
+       y="1.0599999"
+       width="0.52899998"
+       height="2.6500001"
+       rx="0.26499999"
+       ry="0.26499999"
+       fill="url(#linearGradient951)"
+       stroke-width="0"
+       style="fill:url(#linearGradient951)" />
+    <use
+       id="use955"
+       transform="rotate(30,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect935" />
+    <use
+       id="use957"
+       transform="rotate(60,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect935" />
+    <use
+       id="use959"
+       transform="rotate(90,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect935" />
+    <use
+       id="use961"
+       transform="rotate(120,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect935" />
+    <use
+       id="use963"
+       transform="rotate(150,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect935" />
+    <use
+       id="use965"
+       transform="rotate(180,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect935" />
+    <use
+       id="use967"
+       transform="rotate(-150,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect935" />
+    <use
+       id="use970"
+       transform="rotate(-120,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect935" />
+    <use
+       id="use972"
+       transform="rotate(-90,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect935" />
+    <use
+       id="use974"
+       transform="rotate(-60,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect935" />
+    <use
+       id="use976"
+       transform="rotate(-30,13.2,13.2)"
+       width="100%"
+       height="100%"
+       xlink:href="#rect935" />
+  </g>
+</svg>

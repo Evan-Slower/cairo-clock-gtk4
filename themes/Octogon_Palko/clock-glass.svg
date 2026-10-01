@@ -1,0 +1,35 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient3766">
+   <stop id="stop3768" stop-color="#fff" offset="0"/>
+   <stop id="stop3770" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3762" cx="50.3" cy="48.3" r="37.7" fx="51.1" fy="20.5" gradientUnits="userSpaceOnUse">
+   <stop id="stop3758" stop-opacity="0" offset="0"/>
+   <stop id="stop3764" stop-opacity="0" offset=".936"/>
+   <stop id="stop3760" stop-opacity=".701" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3772" x1="24.4" x2="71.4" y1="18.1" y2="80.7" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3766"/>
+  <radialGradient id="radialGradient3776" cx="50.3" cy="48.3" r="37.7" fx="51.1" fy="20.5" gradientUnits="userSpaceOnUse">
+   <stop id="stop3782" stop-opacity="0" offset="0"/>
+   <stop id="stop3784" stop-color="#fff" stop-opacity="0" offset=".941"/>
+   <stop id="stop3786" stop-color="#fff" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3796" x1="48.1" x2="52.5" y1="46.6" y2="52.2" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3766"/>
+  <radialGradient id="radialGradient3804" cx="49.2" cy="49" r="3.57" gradientTransform="matrix(.724 .00348 -.00346 .722 14 13.6)" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+   <stop id="stop3800" stop-color="#fff" offset="0"/>
+   <stop id="stop3802" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3783" x1="50.8" x2="50.8" y1="8.73" y2="30.6" gradientUnits="userSpaceOnUse">
+   <stop id="stop3779" stop-color="#fff" offset="0"/>
+   <stop id="stop3781" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(0 -952)">
+  <path id="path2982" transform="matrix(1.09 0 0 1.09 -4.94 950)" d="m88 48.3a37.7 37.7 0 1 1-75.5 0 37.7 37.7 0 1 1 75.5 0z" fill="url(#radialGradient3762)" stroke="url(#linearGradient3772)" stroke-width=".5"/>
+  <path id="path3774" transform="matrix(1.09 0 0 -1.09 -4.94 1055)" d="m88 48.3a37.7 37.7 0 1 1-75.5 0 37.7 37.7 0 1 1 75.5 0z" fill="url(#radialGradient3776)" stroke="url(#linearGradient3772)" stroke-width=".5"/>
+  <path id="path3788" transform="matrix(.972 0 0 .972 1.22 954)" d="m53.1 49.6a3.07 3.07 0 1 1-6.14 0 3.07 3.07 0 1 1 6.14 0z" fill="url(#radialGradient3804)" stroke="url(#linearGradient3796)"/>
+  <path id="path3007" transform="matrix(.881 0 0 1.01 5.06 952)" d="m80.6 24.7a30 14.6 0 1 1-60 0 30 14.6 0 1 1 60 0z" fill="url(#linearGradient3783)"/>
+ </g>
+</svg>

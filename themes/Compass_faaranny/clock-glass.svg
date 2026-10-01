@@ -1,0 +1,22 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient5078" x1="50.7" x2="46.6" y1="52.5" y2="46.3" gradientUnits="userSpaceOnUse">
+   <stop id="stop5074" offset="0"/>
+   <stop id="stop5076" stop-color="#e0e0e0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient5086" cx="48" cy="48.8" r="3.57" gradientTransform="matrix(.706 -.00138 .00141 .721 14.2 13.9)" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+   <stop id="stop5082" stop-color="#d5d5d5" offset="0"/>
+   <stop id="stop5084" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient3987-6" cx="-.583" cy=".265" r="2.71" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3885-1-0-0-5-8"/>
+  <linearGradient id="linearGradient3885-1-0-0-5-8">
+   <stop id="stop3887-0-8-0-8-6" stop-color="#adb9d1" offset="0"/>
+   <stop id="stop3893-5-5-6-1-03" stop-color="#273679" offset=".5"/>
+   <stop id="stop3889-3-1-7-6-8" stop-color="#292d50" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(0 -952)">
+  <path id="path3883-2-2" transform="matrix(.883 0 0 .908 50.4 1e3)" d="m2.12 0.265a2.71 2.71 0 1 1-5.41 0 2.71 2.71 0 1 1 5.41 0z" fill="url(#radialGradient3987-6)" fill-rule="evenodd" stroke-width="0"/>
+ </g>
+</svg>

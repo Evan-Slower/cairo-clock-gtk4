@@ -1,0 +1,31 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" sodipodi:docbase="/media/hda5/Gemeinsame Dokumente/uhr/Spider" sodipodi:docname="clock-hour-hand.svg" sodipodi:version="0.32" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient2202">
+   <stop id="stop2204" stop-color="#a5adad" offset="0"/>
+   <stop id="stop2206" stop-color="#e8f4ed" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2778" x1="21.6" x2="-2.4" y1="-.0041" y2="-.0041" gradientUnits="userSpaceOnUse">
+   <stop id="stop2774" stop-color="#f00" offset="0"/>
+   <stop id="stop2776" offset="1"/>
+  </linearGradient>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" pagecolor="#ffffff" showguides="true">
+  <sodipodi:guide id="guide1307" orientation="horizontal" position="50"/>
+  <sodipodi:guide id="guide1309" orientation="vertical" position="50"/>
+  <sodipodi:guide id="guide1311" orientation="horizontal" position="100"/>
+  <sodipodi:guide id="guide1313" orientation="vertical" position="0"/>
+  <sodipodi:guide id="guide1315" orientation="vertical" position="100"/>
+  <sodipodi:guide id="guide1317" orientation="horizontal" position="0"/>
+  <sodipodi:guide id="guide1319" orientation="horizontal" position="90.060241"/>
+  <sodipodi:guide id="guide1321" orientation="vertical" position="10.040161"/>
+  <sodipodi:guide id="guide1323" orientation="vertical" position="90.060241"/>
+  <sodipodi:guide id="guide1325" orientation="horizontal" position="10.040161"/>
+  <sodipodi:guide id="guide4953" orientation="vertical" position="-10.040161"/>
+  <sodipodi:guide id="guide4955" orientation="vertical" position="40.060241"/>
+  <sodipodi:guide id="guide4957" orientation="vertical" position="30.02008"/>
+ </sodipodi:namedview>
+ <g id="layer1">
+  <rect id="rect5539" x="-2.3" y="-2.04" width="23.9" height="4.07" ry="1.12" fill="url(#linearGradient2778)" stroke="#404040" stroke-linecap="round" stroke-linejoin="round" stroke-width=".2"/>
+ </g>
+</svg>

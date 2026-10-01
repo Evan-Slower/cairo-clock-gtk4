@@ -1,0 +1,34 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient5989">
+   <stop id="stop5991" stop-color="#fff" offset="0"/>
+   <stop id="stop2316" stop-color="#bcbcbc" offset=".565"/>
+   <stop id="stop2318" stop-color="#838383" offset=".837"/>
+   <stop id="stop5993" stop-color="#3a3a3a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3287">
+   <stop id="stop3289" stop-color="#fff" offset="0"/>
+   <stop id="stop3291" stop-color="#7f7f7f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2202">
+   <stop id="stop2204" stop-color="#a5adad" offset="0"/>
+   <stop id="stop2206" stop-color="#e8f4ed" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient11602" cx="26.9" cy="40.2" r="1.21" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5989"/>
+ </defs>
+ <g id="layer1" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+  <path id="path3103" d="m50 12.4v4.22" opacity=".95" stroke-width="1px"/>
+  <path id="path4859" d="m68.8 17.4-2.11 3.65" opacity=".95" stroke-width="1px"/>
+  <path id="path4871" d="m82.5 31.2-3.65 2.11" opacity=".95" stroke-width="1px"/>
+  <path id="path4877" d="m87.6 49.9h-4.22" opacity=".95" stroke-width="1px"/>
+  <path id="path4883" d="m82.6 68.7-3.65-2.11" opacity=".95" stroke-width="1px"/>
+  <path id="path4889" d="m68.8 82.4-2.11-3.65" opacity=".95" stroke-width="1px"/>
+  <path id="path4895" d="m50.1 87.5-2e-6 -4.22" opacity=".95" stroke-width="1px"/>
+  <path id="path4901" d="m31.3 82.5 2.11-3.65" opacity=".95" stroke-width="1px"/>
+  <path id="path4907" d="m17.6 68.7 3.65-2.11" opacity=".95" stroke-width="1px"/>
+  <path id="path4913" d="m12.5 50 4.22-2e-6" opacity=".95" stroke-width="1px"/>
+  <path id="path4919" d="m17.5 31.2 3.65 2.11" opacity=".95" stroke-width="1px"/>
+  <path id="path4925" d="m31.3 17.5 2.11 3.65" opacity=".95" stroke-width="1px"/>
+ </g>
+</svg>

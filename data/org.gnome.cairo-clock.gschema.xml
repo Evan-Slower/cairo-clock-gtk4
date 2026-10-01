@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.cairo-clock" path="/org/gnome/cairo-clock/">
+
+    <!-- Window Geometry -->
+    <key name="default-x" type="i">
+       <default>835</default>
+      <summary>Default X position</summary>
+      <description>The initial X coordinate of the clock window.</description>
+    </key>
+    <key name="default-y" type="i">
+      <default>415</default>
+      <summary>Default Y position</summary>
+      <description>The initial Y coordinate of the clock window.</description>
+    </key>
+    <key name="custom1-width" type="i">
+      <default>200</default>
+      <summary>Custom 1 width</summary>
+      <description>Width of the clock window when Custom 1 is selected.</description>
+    </key>
+    <key name="custom1-height" type="i">
+      <default>200</default>
+      <summary>Custom 1 height</summary>
+      <description>Height of the clock window when Custom 1 is selected.</description>
+    </key>
+    <key name="custom2-width" type="i">
+      <default>300</default>
+      <summary>Custom 2 width</summary>
+      <description>Width of the clock window when Custom 2 is selected.</description>
+    </key>
+    <key name="custom2-height" type="i">
+      <default>300</default>
+      <summary>Custom 2 height</summary>
+      <description>Height of the clock window when Custom 2 is selected.</description>
+    </key>
+    <key name="startup-size-kind" type="i">
+      <default>2</default>
+      <summary>Startup size selection</summary>
+      <description>Which size option is active: 0=Small, 1=Medium, 2=Large, 3=Custom 1, 4=Custom 2.</description>
+    </key>
+
+    <!-- Display Options -->
+    <key name="show-seconds" type="b">
+      <default>true</default>
+      <summary>Show seconds hand</summary>
+      <description>Whether to display the seconds hand on the clock.</description>
+    </key>
+    <key name="show-date" type="b">
+      <default>false</default>
+      <summary>Show date</summary>
+      <description>Whether to display the current date.</description>
+    </key>
+    <key name="theme" type="s">
+      <default>'zen_MacSlow'</default>
+      <summary>Theme name</summary>
+      <description>The name of the active theme.</description>
+    </key>
+
+    <!-- Window Behavior -->
+    <key name="keep-on-top" type="b">
+      <default>true</default>
+      <summary>Keep on top</summary>
+      <description>Whether the clock window stays above other windows.</description>
+    </key>
+    <key name="appear-in-pager" type="b">
+      <default>false</default>
+      <summary>Appear in pager</summary>
+      <description>Whether the clock appears in the workspace pager.</description>
+    </key>
+    <key name="appear-in-taskbar" type="b">
+      <default>false</default>
+      <summary>Appear in taskbar</summary>
+      <description>Whether the clock appears in the taskbar.</description>
+    </key>
+    <key name="sticky" type="b">
+      <default>true</default>
+      <summary>Sticky</summary>
+      <description>Whether the clock is visible on all workspaces.</description>
+    </key>
+
+    <!-- Time Format & Performance -->
+    <key name="use-24h" type="b">
+      <default>false</default>
+      <summary>Use 24-hour format</summary>
+      <description>Whether to use 24-hour time format (true) or 12-hour (false).</description>
+    </key>
+    <key name="refresh-rate" type="i">
+      <default>1</default>
+      <summary>Refresh rate</summary>
+      <description>Animation refresh rate in Hz (1-60).</description>
+    </key>
+
+  </schema>
+</schemalist>

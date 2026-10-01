@@ -1,0 +1,13 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2989" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs2991">
+  <radialGradient id="radialGradient3760" cx="55.8" cy="53.3" r="36.4" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3754"/>
+  <linearGradient id="linearGradient3754">
+   <stop id="stop3756" stop-color="#fff" stop-opacity=".569" offset="0"/>
+   <stop id="stop3758" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(0 -952)">
+  <path id="path2984" transform="matrix(.547 0 0 .547 26 967)" d="m92.2 53.3a36.4 36.4 0 1 1-72.7 0 36.4 36.4 0 1 1 72.7 0z" fill="url(#radialGradient3760)"/>
+ </g>
+</svg>

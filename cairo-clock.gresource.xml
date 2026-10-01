@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/gnome/cairo-clock">
+    <!-- Add every .ui file you load in your C code here -->
+    <file preprocess="xml-stripblanks">data/cairo-clock-gtk4.ui</file>
+    <file preprocess="xml-stripblanks">data/menus.ui</file>
+    <!-- If you have CSS or images, list them here too -->
+    <!-- <file preprocess="xml-stripblanks">style.css</file> -->
+  </gresource>
+</gresources>

@@ -1,0 +1,29 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" sodipodi:docbase="/home/mirco/Desktop/Downloads/cairo-clock-0.3.1/themes/funky" sodipodi:docname="clock-face.svg" sodipodi:version="0.32" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs4">
+  <linearGradient id="linearGradient3101" x1="10.4" x2="47.8" y1="22.9" y2="22.9" gradientUnits="userSpaceOnUse">
+   <stop id="stop2204" stop-color="#cfd3d3" offset="0"/>
+   <stop id="stop2206" stop-color="#f7fcf9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" pagecolor="#ffffff" showguides="true">
+  <sodipodi:guide id="guide1307" orientation="horizontal" position="50"/>
+  <sodipodi:guide id="guide1309" orientation="vertical" position="50"/>
+  <sodipodi:guide id="guide1311" orientation="horizontal" position="100"/>
+  <sodipodi:guide id="guide1313" orientation="vertical" position="0"/>
+  <sodipodi:guide id="guide1315" orientation="vertical" position="100"/>
+  <sodipodi:guide id="guide1317" orientation="horizontal" position="0"/>
+  <sodipodi:guide id="guide1319" orientation="horizontal" position="90.060241"/>
+  <sodipodi:guide id="guide1321" orientation="vertical" position="10.040161"/>
+  <sodipodi:guide id="guide1323" orientation="vertical" position="90.060241"/>
+  <sodipodi:guide id="guide1325" orientation="horizontal" position="10.040161"/>
+ </sodipodi:namedview>
+ <g id="layer1">
+  <path id="path2400" transform="matrix(1.01 0 0 1 -.595 -.295)" d="m90.1 50.1a39.8 39.8 0 0 1-39.8 39.8l-1e-6 -39.8z" fill="#696cb3" sodipodi:cx="50.312157" sodipodi:cy="50.13047" sodipodi:end="1.5707963" sodipodi:rx="39.836605" sodipodi:ry="39.836605" sodipodi:start="0" sodipodi:type="arc"/>
+  <path id="path1329" transform="matrix(1.01 0 0 1 -.595 -.295)" d="m10.5 50.1a39.8 39.8 0 0 1 39.8-39.8v39.8z" fill="#c0c1d9" sodipodi:cx="50.312157" sodipodi:cy="50.13047" sodipodi:end="4.712389" sodipodi:rx="39.836605" sodipodi:ry="39.836605" sodipodi:start="3.1415927" sodipodi:type="arc"/>
+  <path id="path1409" transform="matrix(.545 .838 -.838 .545 65 -19.4)" d="m50 12.6a37.6 37.6 0 0 1 37.6 37.6h-37.6z" fill="#e2e2e2" sodipodi:cx="50.014656" sodipodi:cy="50.208622" sodipodi:end="6.2831853" sodipodi:rx="37.606098" sodipodi:ry="37.606098" sodipodi:start="4.712389" sodipodi:type="arc"/>
+  <path id="path2284" transform="matrix(.545 .838 -.838 .545 65 -19.4)" d="m81.1 41.9a32.1 32.1 0 0 1-53.8 31l22.7-22.7z" fill="#e2e2e2" sodipodi:cx="50.014656" sodipodi:cy="50.208622" sodipodi:end="8.6393798" sodipodi:rx="32.13316" sodipodi:ry="32.13316" sodipodi:start="6.0213859" sodipodi:type="arc"/>
+  <path id="path4032" transform="matrix(.545 .838 -.838 .545 65 -19.4)" d="m24.3 57.1a26.7 26.7 0 0 1 32.7-32.7l-6.9 25.8z" fill="#e2e2e2" sodipodi:cx="50.014656" sodipodi:cy="50.208622" sodipodi:end="4.9741884" sodipodi:rx="26.669918" sodipodi:ry="26.669918" sodipodi:start="2.8797933" sodipodi:type="arc"/>
+  <path id="path4907" transform="matrix(.545 .838 -.838 .545 65 -19.4)" d="m50 86.7a36.5 36.5 0 0 1-36.5-36.5l36.5 2e-6z" fill="#e2e2e2" sodipodi:cx="50.014656" sodipodi:cy="50.208622" sodipodi:end="3.1415927" sodipodi:rx="36.497738" sodipodi:ry="36.497738" sodipodi:start="1.5707963" sodipodi:type="arc"/>
+ </g>
+</svg>

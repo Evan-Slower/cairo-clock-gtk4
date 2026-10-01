@@ -1,0 +1,5 @@
+desktop/cairo-clock-gtk4.desktop.in
+src/cairo-clock-gtk4.c
+data/cairo-clock-gtk4.ui
+data/org.gnome.cairo-clock.gschema.xml
+

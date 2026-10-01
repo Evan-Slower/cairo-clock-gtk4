@@ -1,0 +1,5 @@
+A super fine analog clock displaying system time. It leverages GTK4,
+Cairo, and librsvg to produce a time display with pretty-pixels.
+
+Original project by MacSlow (2006). This is a 20th anniversary
+GTK4 port by Evan Slower (2026).

@@ -1,0 +1,27 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" sodipodi:docbase="/home/timo/Downloads/MacSlow's Clock/cairo-clock-0.3/themes/antique" sodipodi:docname="clock-minute-hand.svg" sodipodi:version="0.32" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd">
+ <defs id="defs4">
+  <linearGradient id="linearGradient2202">
+   <stop id="stop2204" stop-color="#a5adad" offset="0"/>
+   <stop id="stop2206" stop-color="#e8f4ed" offset="1"/>
+  </linearGradient>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" pagecolor="#ffffff" showguides="true">
+  <sodipodi:guide id="guide1307" orientation="horizontal" position="50"/>
+  <sodipodi:guide id="guide1309" orientation="vertical" position="50"/>
+  <sodipodi:guide id="guide1311" orientation="horizontal" position="100"/>
+  <sodipodi:guide id="guide1313" orientation="vertical" position="0"/>
+  <sodipodi:guide id="guide1315" orientation="vertical" position="100"/>
+  <sodipodi:guide id="guide1317" orientation="horizontal" position="0"/>
+  <sodipodi:guide id="guide1319" orientation="horizontal" position="90.060241"/>
+  <sodipodi:guide id="guide1321" orientation="vertical" position="10.040161"/>
+  <sodipodi:guide id="guide1323" orientation="vertical" position="90.060241"/>
+  <sodipodi:guide id="guide1325" orientation="horizontal" position="10.040161"/>
+  <sodipodi:guide id="guide4953" orientation="vertical" position="-10.040161"/>
+  <sodipodi:guide id="guide4955" orientation="vertical" position="40.060241"/>
+  <sodipodi:guide id="guide4957" orientation="vertical" position="30.02008"/>
+ </sodipodi:namedview>
+ <g id="layer1">
+  <path id="path15607" d="m22.5-0.275s-7.06 0.241-8.88-1.15c-0.67 0.69-1.09 1.06-1.51 0.941-0.186-0.277-0.458-1.31-0.883-0.206-0.479 0.0881-1.17-0.926-2.48-0.147-0.183-0.0945-0.243-0.236-0.447-0.513-0.851 0.452-1.51 0.421-1.51 0.421s-0.382-1.56-1.37-0.421c-0.325-0.338-2.35-1.93-3.73 0.795-0.0473 0.078-0.136 0.0774-0.245 0.0454-0.207-0.602-0.779-1.03-1.45-1.03-0.845 0.00144-1.53 0.688-1.53 1.53 0.00144 0.845 0.688 1.53 1.53 1.53 0.636-0.00108 1.18-0.391 1.41-0.944 0.124-0.037 0.227-0.045 0.281 0.0408 1.39 2.72 3.41 1.12 3.74 0.781 0.988 1.13 1.36-0.426 1.36-0.426 0 1e-6 0.663-0.033 1.52 0.416 0.203-0.278 0.262-0.419 0.445-0.515 1.31 0.774 2-0.242 2.48-0.155 0.428 1.11 0.697 0.069 0.882-0.209 0.419-0.116 0.838 0.249 1.51 0.936 1.82-1.4 8.87-1.19 8.87-1.19l-9e-4 -0.529zm-11.4 0.237c5.11e-4 0.00428 1.4e-5 0.00828 2.1e-5 0.0125 8.18e-4 0.48-1.85 0.964-2.08 0.684-0.241-0.3 0.529-0.296 0.519-0.641-0.0106-0.345-0.76-0.239-0.521-0.639 0.219-0.367 2.04 0.223 2.08 0.584zm-4.66 0.0604-0.919 0.642-0.841-0.639 0.839-0.641 0.921 0.638zm-1.56 0.948c2.34e-4 0.00371-1.51e-4 0.00756 1.91e-5 0.0112 2.9e-4 0.00628-7.46e-5 0.0125 3.2e-5 0.0188 0.00992 0.578-0.764 0.918-2.06-0.136-0.039 0.0087-0.0636 0.00483-0.0763-0.00612-2.9e-4 -2.92e-4 -9.77e-4 -9.45e-4 -0.00125-0.00125-0.0666-0.0793 0.308-0.492 0.197-0.577-0.28-0.235-0.342 0.202-0.6 0.225-0.16-0.24-0.2-0.28-0.481-0.479 0.28-0.16 0.28-0.2 0.439-0.481 0.32-0.0405 0.321 0.519 0.64 0.199 0.11-0.0846-0.258-0.504-0.201-0.591 2.14e-4 -2.95e-4 0.00102-9.62e-4 0.00125-0.00125 0.00217-0.00256 0.0056-0.00561 0.00874-0.00751 0.00143-8.05e-4 0.00342-0.00189 5e-3 -0.00251 0.00132-4.02e-4 0.00376-9.27e-4 5e-3 -0.00126 0.0137-0.00337 0.0338-0.00264 0.06 0.00365 1.76-1.5 2.76 0.155 1.28 0.878 0.51 0.261 0.757 0.636 0.777 0.949z"/>
+ </g>
+</svg>

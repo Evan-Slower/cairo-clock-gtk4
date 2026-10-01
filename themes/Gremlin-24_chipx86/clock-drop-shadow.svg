@@ -1,0 +1,22 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1965" version="1.0" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs1967">
+  <linearGradient id="linearGradient2854">
+   <stop id="stop2856" stop-color="#f2a3e4" offset="0"/>
+   <stop id="stop2858" stop-color="#ca67ba" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2904">
+   <stop id="stop2906" stop-opacity=".371" offset="0"/>
+   <stop id="stop2908" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient2252" cx="99" cy="237" r="15" gradientTransform="matrix(1.33 1.33 -.707 .707 135 -62.5)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2854"/>
+  <linearGradient id="linearGradient2399" x1="237" x2="247" y1="142" y2="146" gradientTransform="translate(-100 -116)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2904"/>
+  <linearGradient id="linearGradient2402" x1="126" x2="122" y1="151" y2="156" gradientTransform="translate(-100 -116)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2904"/>
+  <radialGradient id="radialGradient2422" cx="150" cy="185" r="74.8" gradientTransform="matrix(1.16 .945 -.771 .944 19.4 -248)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2854"/>
+  <radialGradient id="radialGradient2430" cx="127" cy="273" r="28.1" gradientTransform="matrix(1.03 .416 -.119 .567 29.1 70.7)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2854"/>
+  <radialGradient id="radialGradient2432" cx="148" cy="271" r="28.1" gradientTransform="matrix(-.729 .12 -.0544 -.638 270 432)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2854"/>
+ </defs>
+ <g id="layer1">
+  <path id="path3189" d="m99.2-0.17c-5.7-0.222-14.1 11-20.2 16.8-9.29-3.71-19.7-3.18-29.5 0-11-11.7-28.9-12.6-26.8-6.3 2.68 6.05 9.08 6.31 10.2 15.5l0.133-0.0663c-1.92 8.74-4.52 18.7-5.09 29-1.59 1.41-2.6 3.46-2.6 5.75 0 2.47 1.18 4.66 3 6.07 0.491 3.68 1.36 7.35 2.75 11-3.75 0.228-6.45 1.41-6.93 3.36-0.8 3.27 4.91 7.47 12.7 9.38 7.82 1.91 14.8 0.818 15.6-2.45 0.338-1.38-0.497-2.95-2.15-4.43 8.25 0.62 18 0.826 26.4 0.481-1.32 1.33-1.94 2.71-1.64 3.94 0.8 3.27 7.79 4.37 15.6 2.45 7.82-1.91 13.5-6.11 12.7-9.38-0.437-1.79-2.74-2.93-6-3.28 1.28-3.55 2.1-7.17 2.55-10.8 2.01-1.39 3.33-3.69 3.33-6.32 0-2.48-1.19-4.68-3.02-6.08-0.603-10.2-3.02-20.1-4.79-28.6 0.00127-0.0107-0.00129-0.0225 0-0.0332 1.11-9.22 8.01-20.5 5.42-25.5-0.536-0.301-1.12-0.457-1.72-0.481z" opacity=".121"/>
+ </g>
+</svg>

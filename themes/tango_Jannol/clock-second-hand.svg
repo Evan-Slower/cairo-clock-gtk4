@@ -1,0 +1,44 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" sodipodi:docbase="/home/shr/.cairo-clock/themes/tango" sodipodi:docname="clock-second-hand.svg" sodipodi:version="0.32" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" pagecolor="#ffffff"/>
+ <defs id="defs4">
+  <marker id="Dot_l" overflow="visible" orient="auto">
+   <path id="path2328" transform="matrix(.8 0 0 .8 5.7 .8)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mend" overflow="visible" orient="auto">
+   <path id="path2384" transform="scale(-.4)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mstart" overflow="visible" orient="auto">
+   <path id="path8546" transform="scale(.4)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Lend" overflow="visible" orient="auto">
+   <path id="path8549" transform="scale(-.8)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Lstart" overflow="visible" orient="auto">
+   <path id="path8552" transform="scale(.8)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <linearGradient id="linearGradient1529">
+   <stop id="stop1531" stop-color="#a5adad" offset="0"/>
+   <stop id="stop1533" stop-color="#e8f4ed" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3287">
+   <stop id="stop3289" stop-color="#fff" offset="0"/>
+   <stop id="stop3291" stop-color="#7f7f7f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5989">
+   <stop id="stop5991" stop-color="#6d8eb9" offset="0"/>
+   <stop id="stop2316" stop-color="#85a2c8" offset=".72"/>
+   <stop id="stop2318" stop-color="#a4bad7" offset=".95"/>
+   <stop id="stop5993" stop-color="#f3f3f3" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3101" x1="10.4" x2="47.8" y1="22.9" y2="22.9" gradientUnits="userSpaceOnUse">
+   <stop id="stop2204" stop-color="#a5adad" offset="0"/>
+   <stop id="stop7463" stop-color="#c6d0cd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2065">
+   <stop id="stop2067" stop-color="#cfd3d3" offset="0"/>
+   <stop id="stop2069" stop-color="#f7fcf9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="path2241" d="m6.03 0.00301h21.7" fill="none" stroke="#000" stroke-linecap="round" stroke-width=".601"/>
+</svg>

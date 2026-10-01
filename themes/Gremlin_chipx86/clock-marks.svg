@@ -1,0 +1,39 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg1965" version="1.0" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs1967">
+  <linearGradient id="linearGradient2854">
+   <stop id="stop2856" stop-color="#f2a3e4" offset="0"/>
+   <stop id="stop2858" stop-color="#ca67ba" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2904">
+   <stop id="stop2906" stop-opacity=".371" offset="0"/>
+   <stop id="stop2908" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient2252" cx="99" cy="237" r="15" gradientTransform="matrix(1.33 1.33 -.707 .707 135 -62.5)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2854"/>
+  <linearGradient id="linearGradient2399" x1="237" x2="247" y1="142" y2="146" gradientTransform="translate(-100 -116)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2904"/>
+  <linearGradient id="linearGradient2402" x1="126" x2="122" y1="151" y2="156" gradientTransform="translate(-100 -116)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2904"/>
+  <radialGradient id="radialGradient2422" cx="150" cy="185" r="74.8" gradientTransform="matrix(1.16 .945 -.771 .944 19.4 -248)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2854"/>
+  <radialGradient id="radialGradient2430" cx="127" cy="273" r="28.1" gradientTransform="matrix(1.03 .416 -.119 .567 29.1 70.7)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2854"/>
+  <radialGradient id="radialGradient2432" cx="148" cy="271" r="28.1" gradientTransform="matrix(-.729 .12 -.0544 -.638 270 432)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2854"/>
+ </defs>
+ <g id="layer1">
+  <g id="g3013" transform="matrix(.477 0 0 .477 -22.8 -49.7)" fill="#3465a4">
+   <text id="text2922" x="172.27362" y="201.71066" font-family="Bitstream Vera Sans" font-size="12.9px" font-weight="bold" stroke-width="1px" xml:space="preserve"><tspan id="tspan2924" x="172.27362" y="201.71066">12 </tspan></text>
+   <rect id="rect2930" x="180" y="274" width="4" height="10" rx="3.19" ry="3.19" opacity=".67"/>
+  </g>
+  <g id="g3001" transform="matrix(.477 0 0 .477 -22.8 -50.2)" fill="#3465a4">
+   <rect id="rect2934" transform="rotate(90)" x="237" y="-147" width="4" height="10" rx="3.19" ry="3.19" opacity=".67"/>
+   <rect id="rect2936" transform="rotate(90)" x="237" y="-227" width="4" height="10" rx="3.19" ry="3.19" opacity=".67"/>
+  </g>
+  <rect id="rect2938" transform="matrix(.866 .5 -.5 .866 0 0)" x="86.7" y="40.5" width="1.91" height="4.77" rx="1.52" ry="1.52" fill="#729fcf" opacity=".67"/>
+  <rect id="rect2942" transform="matrix(.5 .866 -.866 .5 0 0)" x="86.9" y="-6.49" width="1.91" height="4.77" rx="1.52" ry="1.52" fill="#729fcf" opacity=".67"/>
+  <rect id="rect2944" transform="matrix(.5 .866 -.866 .5 0 0)" x="86.9" y="-44.7" width="1.91" height="4.77" rx="1.52" ry="1.52" fill="#729fcf" opacity=".67"/>
+  <rect id="rect2980" transform="matrix(.5 -.866 .866 .5 0 0)" x="-24.8" y="104" width="1.91" height="4.77" rx="1.52" ry="1.52" fill="#729fcf" opacity=".67"/>
+  <rect id="rect2982" transform="matrix(.5 -.866 .866 .5 0 0)" x="-24.8" y="66.2" width="1.91" height="4.77" rx="1.52" ry="1.52" fill="#729fcf" opacity=".67"/>
+  <rect id="rect2984" transform="matrix(.866 -.5 .5 .866 0 0)" x="22.2" y="105" width="1.91" height="4.77" rx="1.52" ry="1.52" fill="#729fcf" opacity=".67"/>
+  <g id="g3018" transform="matrix(.477 0 0 .477 -22.8 -49.7)" fill="#729fcf">
+   <rect id="rect2940" transform="matrix(.866 .5 -.5 .866 0 0)" x="275" y="71.3" width="4" height="10" rx="3.19" ry="3.19" opacity=".67"/>
+   <rect id="rect2986" transform="matrix(.866 -.5 .5 .866 0 0)" x="35.9" y="253" width="4" height="10" rx="3.19" ry="3.19" opacity=".67"/>
+  </g>
+ </g>
+</svg>

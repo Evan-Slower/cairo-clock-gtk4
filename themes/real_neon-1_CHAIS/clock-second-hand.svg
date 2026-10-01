@@ -1,0 +1,15 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" version="1.0" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs4">
+  <linearGradient id="linearGradient2202">
+   <stop id="stop2204" stop-color="#a5adad" offset="0"/>
+   <stop id="stop2206" stop-color="#e8f4ed" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" fill="none" stroke="#f00" stroke-linecap="round">
+  <path id="path2401" transform="translate(-.382 -.378)" d="m1.18 0.378a0.764 0.764 0 1 1-1.53 0 0.764 0.764 0 1 1 1.53 0z" stroke-linejoin="round" stroke-width=".5"/>
+  <path id="path3173" d="m-0.732-0.00397-5 0.00397" stroke-width=".5"/>
+  <path id="path3177" d="m0.827 0h27.2" stroke-width=".5"/>
+  <path id="path3179" d="m30 0-2.05-0.672 0.0955 0.672-0.0636 0.728 2.02-0.728z" stroke-linejoin="round" stroke-width=".5"/>
+ </g>
+</svg>

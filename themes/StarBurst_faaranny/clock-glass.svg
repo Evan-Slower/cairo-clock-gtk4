@@ -1,0 +1,26 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs6">
+  <linearGradient id="linearGradient3885-1-0">
+   <stop id="stop3887-0-8" stop-color="#d1b7ad" offset="0"/>
+   <stop id="stop3893-5-5" stop-color="#793e27" offset=".5"/>
+   <stop id="stop3889-3-1" stop-color="#291b16" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3187" cx="-.583" cy=".265" r="2.71" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3885-1-0"/>
+  <radialGradient id="radialGradient3187-9" cx="-.583" cy=".265" r="2.71" gradientUnits="userSpaceOnUse">
+   <stop id="stop3887-0-8-9" stop-color="#d1c9ad" offset="0"/>
+   <stop id="stop3893-5-5-6" stop-color="#c29513" offset=".5"/>
+   <stop id="stop3889-3-1-6" stop-color="#a75a24" offset="1"/>
+  </radialGradient>
+  <linearGradient id="linearGradient3895" x1="19.1" x2="86.6" y1="-29.2" y2="-29.2" gradientUnits="userSpaceOnUse">
+   <stop id="stop3838" stop-color="#fff" offset="0"/>
+   <stop id="stop3840" stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4111" x1="47.2" x2="52.7" y1="50" y2="50" gradientTransform="translate(.012 -.008)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3885-1-0"/>
+ </defs>
+ <g id="g4113" stroke-width="0">
+  <path id="path3883-3" transform="matrix(.811 0 0 .811 50.4 49.8)" d="m2.12 0.265a2.71 2.71 0 1 1-5.41 0 2.71 2.71 0 1 1 5.41 0z" fill="url(#radialGradient3187-9)" fill-rule="evenodd"/>
+  <path id="path3208" transform="matrix(.866 -.5 .5 .866 6.22 80.2)" d="m86.6-29.2a33.8 21.6 0 1 1-67.6 0 33.8 21.6 0 1 1 67.6 0z" fill="url(#linearGradient3895)" opacity=".328"/>
+  <path id="path4021" d="m50 47.2c-1.5 0-2.72 1.22-2.72 2.72 0 1.5 1.22 2.72 2.72 2.72 1.5 0 2.72-1.22 2.72-2.72 0-1.5-1.22-2.72-2.72-2.72zm0 0.594c1.21 0 2.19 0.979 2.19 2.19 0 1.21-0.979 2.19-2.19 2.19-1.21 0-2.19-0.979-2.19-2.19 0-1.21 0.979-2.19 2.19-2.19z" fill="url(#linearGradient4111)"/>
+ </g>
+</svg>

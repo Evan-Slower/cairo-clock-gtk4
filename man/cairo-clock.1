@@ -1,0 +1,137 @@
+.TH CAIRO-CLOCK 1 "November 23, 2007" 0.3.4 "some dope-shit-funky time display"
+.SH NAME
+cairo-clock \- an analog clock drawn with vector-graphics
+.SH SYNOPSIS
+.B cairo-clock
+[\fB\-\-x\fP X]
+[\fB\-\-y\fP Y]
+[\fB\-\-width\fP WIDTH]
+[\fB\-\-height\fP HEIGHT]
+[\fB\-\-seconds\fP]
+[\fB\-\-date\fP]
+[\fB\-\-theme\fP name]
+[\fB\-\-ontop\fP]
+[\fB\-\-pager\fP]
+[\fB\-\-taskbar\fP]
+[\fB\-\-sticky\fP]
+[\fB\-\-twelve\fP]
+[\fB\-\-twentyfour\fP]
+[\fB\-\-refresh\fP]
+.br
+.B cairo-clock -h, --help
+.br
+.B cairo-clock -v, --version
+.br
+.B cairo-clock -l, --list
+.SH DESCRIPTION
+This manual page documents briefly the usage of the
+.B cairo-clock
+program.
+You can move the clock around with your mouse by pressing and holding the left
+mouse-button and dragging your mouse around. The clock will follow your
+movements. To resize the clock you have to press and hold the middle
+mouse-button down and drag your mouse around. The upper-left corner of the clock
+will follow your movements. Just clicking the right mouse-button on the clock
+will bring up the popup-menu. You find three menu-items. Properties, Info and
+Quit. Selecting the Properties item will bring up a dialog where you can change
+all available features of the clock (e.g. size, theme, display of optional
+elements, pager- and taskbar-behaviour). The next menu-item, Info, will bring up
+an informational dialog stating the name of program, current version, author and
+license information. The third and last menu-item, Quit, really exits the
+program if you select it. Surprised?! ;-) You can also hit the ESC-key if you
+want to exit the program.
+.PP
+If you want to install additional themes for the clock you downloaded from the
+internet you can best place them in you home-directory under
+~/.cairo-clock/themes. You proably have to create that directory-structure the
+first time you install new themes. A theme there goes in a directory like e.g.
+~/.cairo-clock/theme/new_theme. Once you copied the new themes directory there
+you will be able to select it via the Properties dialog in the theme-selection
+widget after a restart of the program. The theme-directories are only scanned
+during program-start. The newly added 24h-mode for cairo-clock will need you
+to select any of the supplied 24h-themes. While the clock will run without any
+problems if you switch to 24h-mode and still use a 12h-based theme, you are
+going to want to select a 24h-based theme in order to make any sense of the
+displayed hand-positions in 24h-mode.
+.SH OPTIONS
+cairo-clock now uses common GNU-convention for commandline-options. Take note
+that using commandline-options overrules everything which maybe stored in your 
+local settings-file. Using the commandline-options will completely ignore any
+settings you may have stored in your local settings-file. Every option will 
+default to program-internal settings. A summary of options is included below.
+There is no Info file on this.
+.TP
+\fB\-x, \-\-xposition\fP X
+.br
+The initial x-position of the top-left window-corner of the clock will be \fBX\fp.
+.TP
+\fB\-y, \-\-yposition\fP Y
+.br
+The initial y-position of the top-left window-corner of the clock will be \fBY\fp.
+.TP
+\fB\-w, \-\-width\fP WIDTH
+.br
+Initially open the window of the clock with a width of \fBWIDTH\fP.
+.TP
+\fB\-g, \-\-height\fP HEIGHT
+.br
+Initially open the window of the clock with a height of \fBHEIGHT\fP.
+.TP
+\fB\-s, \-\-seconds\fP
+.br
+Passing this means to render the seconds-hand. If you leave this out no seconds-hand will be drawn.
+.TP
+\fB\-d, \-\-date\fP
+.br
+Passing this means to render the date-display. If you leave this out no date will be drawn.
+.TP
+\fB\-l, \-\-list\fP
+.br
+List all themes installed system\-wide and locally for the current user and exit.
+.TP
+\fB\-t, \-\-theme\fP NAME
+.br
+Use theme \fBNAME\fP for rendering. Use the any of the names returned by the options \fB\-l\fP or \fB\-\-list\fP.
+.TP
+\fB\-o, \-\-ontop\fP
+.br
+Passing this means the clock-window will stay above all other windows. If you leave this out other windows can overlap the clock-window.
+.TP
+\fB\-p, \-\-pager\fP
+.br
+Passing this means the clock-window will appear in the pager. If you leave this out the pager will ignore the clock-window and not display it.
+.TP
+\fB\-b, \-\-taskbar\fP
+.br
+Passing this means the clock-window will show up in the taskbar. If you leave this out the clock-window will not show up in the taskbar.
+.TP
+\fB\-i, \-\-sticky\fP
+.br
+Passing this means to have the clock-window appear all your workspaces. If you leave this out the clock will only be visible on the current workspace from where you initially started cairo-clock.
+.TP
+\fB\-e, \-\-twelve\fP
+.br
+Passing this will force the hour hand to use commonly known 12h per full circle.
+.TP
+\fB\-f, \-\-twentyfour\fP
+.br
+Passing this will cause the hour hand to spread 24h across a full circle.
+.TP
+\fB\-r, \-\-refresh\fP RATE
+.br
+Use an animation-refreshrate of \fBRATE\fP for rendering. Use this with caution! Possible values are 1..60 Hz.
+.TP
+\fB\-h, \-\-help\fP
+.br
+Print a usage-description and exit.
+.TP
+\fB\-v, \-\-version\fP
+.br
+Print the programs version-number and exit.
+.SH BUGS 
+If redraws don't happen every second (the second-hand is drawn) the needed refresh after a window-size change via the preferences-dialog only happens on a minute-interval.
+.SH AUTHOR
+cairo-clock is written and maintained by Mirco Mueller <macslow@bangang.de>.
+.PP
+This manual page was written by Mirco Mueller <macslow@bangang.de>,
+for the Debian/Ubuntu project (but may be used by others).
