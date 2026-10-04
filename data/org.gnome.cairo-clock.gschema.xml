@@ -62,16 +62,6 @@
       <summary>Keep on top</summary>
       <description>Whether the clock window stays above other windows.</description>
     </key>
-    <key name="appear-in-pager" type="b">
-      <default>false</default>
-      <summary>Appear in pager</summary>
-      <description>Whether the clock appears in the workspace pager.</description>
-    </key>
-    <key name="appear-in-taskbar" type="b">
-      <default>false</default>
-      <summary>Appear in taskbar</summary>
-      <description>Whether the clock appears in the taskbar.</description>
-    </key>
     <key name="sticky" type="b">
       <default>true</default>
       <summary>Sticky</summary>
@@ -85,7 +75,7 @@
       <description>Whether to use 24-hour time format (true) or 12-hour (false).</description>
     </key>
     <key name="refresh-rate" type="i">
-      <default>1</default>
+      <default>30</default>
       <summary>Refresh rate</summary>
       <description>Animation refresh rate in Hz (1-60).</description>
     </key>

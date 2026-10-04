@@ -346,7 +346,7 @@ static void set_window_hints_x11(GtkWindow *window, gboolean keep_above, gboolea
     if (!GDK_IS_X11_SURFACE(surface))
     return;
 
-    Window xid = GDK_SURFACE_XID(surface);
+        Window xid = GDK_SURFACE_XID(surface);
     Display *dpy = GDK_DISPLAY_XDISPLAY(gdk_display_get_default());
     if (!dpy) return;   
 
@@ -370,7 +370,7 @@ static void toggle_window_hints_x11(GtkWindow *window, gboolean keep_above, gboo
     if (!GDK_IS_X11_SURFACE(surface))
     return;   
     
-    Window xid = GDK_SURFACE_XID(surface);
+        Window xid = GDK_SURFACE_XID(surface);
     Display *dpy = GDK_DISPLAY_XDISPLAY(gdk_display_get_default());
     if (!dpy) return;
 
@@ -994,7 +994,7 @@ on_startup_size_changed (GtkDropDown *pDropDown,
     if (!state->spin_button_width || !state->spin_button_height)
     return;   
 
-    switch (selected_id)
+        switch (selected_id)
     {
         case SIZE_SMALL:
             state->startup_size_kind = SIZE_SMALL;

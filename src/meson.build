@@ -4,7 +4,6 @@
 #add_project_arguments('-DGDK_WINDOWING_X11', language: 'c')
 
 # Define sources in this directory
-# Added license_data.c and callbacks.c to the list
 sources = files('cairo-clock-gtk4.c')
 
 # Define include directories relative to THIS file (src/)
