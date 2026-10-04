@@ -3,3 +3,75 @@ Cairo, and librsvg to produce a time display with pretty-pixels.
 
 Original project by MacSlow (2006). This is a 20th anniversary
 GTK4 port by Evan Slower (2026).
+
+There are three improvements which are not original.  
+1. A second 'Custom' button has been added.
+2. The themes menu is now in alphabetical order.
+3. And 31 extra themes have also been added to raise total to 50.
+
+Also important to note, all hotkeys have been removed. And functionality for
+'show in taskbar' and 'show in pager' are no longer present.
+
+I chose to use the zen_MacSlow theme as the new default theme.  Mirco "MacSlow"
+Müller has had 20 more years to zen out as we all have. It's fitting I think. 
+Here is the meson.build for the 50 themes names and attributes to the creators.
+I love these themes and I hope you'll enjoy them on your desktop the way I do.
+
+themes = [
+  'Ancient_Palko',
+  'antique_tmikko',
+  'ArchLinuxClock_skatox',
+  'ArtBlue_faaranny',
+  'ArtRed_faaranny',
+  'Ater-ambience_cypberpython',
+  'Balls_miss-dragon',
+  'Compass_faaranny',
+  'DebianSlimBlack_NinjjaX',
+  'Deco-Uno_faaranny',
+  'default-24_moppsy',
+  'default_MacSlow',
+  'dewdrop-blue_g-nome',
+  'Echee_facsavar',
+  'fdo_MacSlow',
+  'funky_MacSlow',
+  'Glass_Palko',
+  'glassy_MacSlow',
+  'glowing-elegance_schgoddie',
+  'Gremlin-24_chipx86',
+  'Gremlin_chipx86',
+  'Hal9000_lean84',
+  'Harley-Davidson_dewman0388',
+  'HTC-HERO_Palko',
+  'ipulse-24_moppsy',
+  'ipulse_moppsy',
+  'Kartier_Palko',
+  'Mint_McLovin',
+  'Mint_Palko',
+  'Moon-Shadow_bretcolin',
+  'Neon-blue_crunch',
+  'NY-at-noon-24_RobotCopy',
+  'Octogon_Palko',
+  'Pacific_talpastools',
+  'purple-and-gold_nailpounder',
+  'quartz-24_moppsy',
+  'radium-12_MacSlow',
+  'radium-24_moppsy',
+  'real_neon-1_CHAIS',
+  'silvia-24_moppsy',
+  'silvia_moppsy',
+  'simple-24_moppsy',
+  'simple_MacSlow',
+  'Spider_miss-dragon',
+  'StarBurst_faaranny',
+  'tango_Jannol',
+  'Tux_Palko',
+  'UbuntuSpin_werewolves',
+  'Vinyl_Palko',
+  'zen_MacSlow',
+]
+
+foreach theme : themes
+  install_subdir(theme, install_dir: get_option('datadir') / 'cairo-clock' / 'themes')
+endforeach   
+
+
